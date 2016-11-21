@@ -22,3 +22,6 @@ filter the customers further. The text will be matched agains the customer `desc
 Only the customers with either `description` or `version` will be displayed when some text is written in the input.
 
 The purpose of this is to show how to manage state in components (each tab has independent search text).
+
+# Usage
+After cloning, run `npm install` and then `npm start`.
