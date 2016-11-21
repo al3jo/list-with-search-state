@@ -1,0 +1,12 @@
+.Customer {
+  padding: 10px;
+}
+
+.Customer:hover {
+  background: black;
+  color: white;
+}
+
+.Highlight {
+  background: yellow;
+}

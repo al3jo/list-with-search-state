@@ -1,0 +1,23 @@
+{
+  "name": "search-with-state",
+  "version": "0.1.0",
+  "private": true,
+  "devDependencies": {
+    "react-scripts": "0.7.0"
+  },
+  "dependencies": {
+    "immutable": "^3.8.1",
+    "react": "^15.4.0",
+    "react-dom": "^15.4.0",
+    "react-highlight-words": "^0.6.0"
+  },
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test --env=jsdom",
+    "eject": "react-scripts eject"
+  },
+  "eslintConfig": {
+    "extends": "react-app"
+  }
+}

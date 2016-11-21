@@ -1,0 +1,5212 @@
+[
+  {
+    "id":1,
+    "dateGA":"2016-04-27T03:00:00.000Z",
+    "description":"Customer 1",
+    "domain":"www.customer1.com",
+    "host":"customer1.customers.com",
+    "name":"customer1",
+    "type":"Enterprise",
+    "version":"5.9.15.2"
+  },
+  {
+    "id":2,
+    "dateGA":"2016-01-25T03:00:00.000Z",
+    "description":"Customer 2",
+    "domain":"www.customer2.com",
+    "host":"customer2.customers.com",
+    "name":"customer2",
+    "type":"Lite",
+    "version":"5.1.12.6"
+  },
+  {
+    "id":3,
+    "dateGA":"2016-11-18T03:00:00.000Z",
+    "description":"Customer 3",
+    "domain":"www.customer3.com",
+    "host":"customer3.customers.com",
+    "name":"customer3",
+    "type":"Enterprise",
+    "version":"5.5.7.2"
+  },
+  {
+    "id":4,
+    "dateGA":"2016-06-27T03:00:00.000Z",
+    "description":"Customer 4",
+    "domain":"www.customer4.com",
+    "host":"customer4.customers.com",
+    "name":"customer4",
+    "type":"Lite",
+    "version":"5.4.1.7"
+  },
+  {
+    "id":5,
+    "dateGA":"2016-01-09T03:00:00.000Z",
+    "description":"Customer 5",
+    "domain":"www.customer5.com",
+    "host":"customer5.customers.com",
+    "name":"customer5",
+    "type":"Lite",
+    "version":"5.1.11.1"
+  },
+  {
+    "id":6,
+    "dateGA":"2016-07-12T03:00:00.000Z",
+    "description":"Customer 6",
+    "domain":"www.customer6.com",
+    "host":"customer6.customers.com",
+    "name":"customer6",
+    "type":"Lite",
+    "version":"5.2.8.7"
+  },
+  {
+    "id":7,
+    "dateGA":"2016-04-07T03:00:00.000Z",
+    "description":"Customer 7",
+    "domain":"www.customer7.com",
+    "host":"customer7.customers.com",
+    "name":"customer7",
+    "type":"Enterprise",
+    "version":"5.4.2.1"
+  },
+  {
+    "id":8,
+    "dateGA":"2016-12-16T03:00:00.000Z",
+    "description":"Customer 8",
+    "domain":"www.customer8.com",
+    "host":"customer8.customers.com",
+    "name":"customer8",
+    "type":"Lite",
+    "version":"5.5.8.7"
+  },
+  {
+    "id":9,
+    "dateGA":"2016-09-17T03:00:00.000Z",
+    "description":"Customer 9",
+    "domain":"www.customer9.com",
+    "host":"customer9.customers.com",
+    "name":"customer9",
+    "type":"Enterprise",
+    "version":"4.7.15.4"
+  },
+  {
+    "id":10,
+    "dateGA":"2016-05-21T03:00:00.000Z",
+    "description":"Customer 10",
+    "domain":"www.customer10.com",
+    "host":"customer10.customers.com",
+    "name":"customer10",
+    "type":"Lite",
+    "version":"5.2.15.6"
+  },
+  {
+    "id":11,
+    "dateGA":"2016-02-20T03:00:00.000Z",
+    "description":"Customer 11",
+    "domain":"www.customer11.com",
+    "host":"customer11.customers.com",
+    "name":"customer11",
+    "type":"Enterprise",
+    "version":"5.3.5.3"
+  },
+  {
+    "id":12,
+    "dateGA":"2016-06-23T03:00:00.000Z",
+    "description":"Customer 12",
+    "domain":"www.customer12.com",
+    "host":"customer12.customers.com",
+    "name":"customer12",
+    "type":"Lite",
+    "version":"5.6.16.3"
+  },
+  {
+    "id":13,
+    "dateGA":"2016-09-27T03:00:00.000Z",
+    "description":"Customer 13",
+    "domain":"www.customer13.com",
+    "host":"customer13.customers.com",
+    "name":"customer13",
+    "type":"Enterprise",
+    "version":"5.1.13.2"
+  },
+  {
+    "id":14,
+    "dateGA":"2016-05-11T03:00:00.000Z",
+    "description":"Customer 14",
+    "domain":"www.customer14.com",
+    "host":"customer14.customers.com",
+    "name":"customer14",
+    "type":"Lite",
+    "version":"5.8.8.6"
+  },
+  {
+    "id":15,
+    "dateGA":"2016-03-13T03:00:00.000Z",
+    "description":"Customer 15",
+    "domain":"www.customer15.com",
+    "host":"customer15.customers.com",
+    "name":"customer15",
+    "type":"Lite",
+    "version":"5.8.4.4"
+  },
+  {
+    "id":16,
+    "dateGA":"2016-10-19T03:00:00.000Z",
+    "description":"Customer 16",
+    "domain":"www.customer16.com",
+    "host":"customer16.customers.com",
+    "name":"customer16",
+    "type":"Lite",
+    "version":"5.7.13.6"
+  },
+  {
+    "id":17,
+    "dateGA":"2016-12-16T03:00:00.000Z",
+    "description":"Customer 17",
+    "domain":"www.customer17.com",
+    "host":"customer17.customers.com",
+    "name":"customer17",
+    "type":"Enterprise",
+    "version":"5.8.16.7"
+  },
+  {
+    "id":18,
+    "dateGA":"2016-03-21T03:00:00.000Z",
+    "description":"Customer 18",
+    "domain":"www.customer18.com",
+    "host":"customer18.customers.com",
+    "name":"customer18",
+    "type":"Lite",
+    "version":"5.8.4.2"
+  },
+  {
+    "id":19,
+    "dateGA":"2016-05-11T03:00:00.000Z",
+    "description":"Customer 19",
+    "domain":"www.customer19.com",
+    "host":"customer19.customers.com",
+    "name":"customer19",
+    "type":"Enterprise",
+    "version":"5.6.4.7"
+  },
+  {
+    "id":20,
+    "dateGA":"2016-03-23T03:00:00.000Z",
+    "description":"Customer 20",
+    "domain":"www.customer20.com",
+    "host":"customer20.customers.com",
+    "name":"customer20",
+    "type":"Lite",
+    "version":"5.7.11.1"
+  },
+  {
+    "id":21,
+    "dateGA":"2016-03-12T03:00:00.000Z",
+    "description":"Customer 21",
+    "domain":"www.customer21.com",
+    "host":"customer21.customers.com",
+    "name":"customer21",
+    "type":"Enterprise",
+    "version":"4.4.5.1"
+  },
+  {
+    "id":22,
+    "dateGA":"2016-08-06T03:00:00.000Z",
+    "description":"Customer 22",
+    "domain":"www.customer22.com",
+    "host":"customer22.customers.com",
+    "name":"customer22",
+    "type":"Lite",
+    "version":"5.3.15.7"
+  },
+  {
+    "id":23,
+    "dateGA":"2016-09-01T03:00:00.000Z",
+    "description":"Customer 23",
+    "domain":"www.customer23.com",
+    "host":"customer23.customers.com",
+    "name":"customer23",
+    "type":"Enterprise",
+    "version":"5.5.4.4"
+  },
+  {
+    "id":24,
+    "dateGA":"2016-07-16T03:00:00.000Z",
+    "description":"Customer 24",
+    "domain":"www.customer24.com",
+    "host":"customer24.customers.com",
+    "name":"customer24",
+    "type":"Lite",
+    "version":"5.7.13.4"
+  },
+  {
+    "id":25,
+    "dateGA":"2016-12-16T03:00:00.000Z",
+    "description":"Customer 25",
+    "domain":"www.customer25.com",
+    "host":"customer25.customers.com",
+    "name":"customer25",
+    "type":"Lite",
+    "version":"5.2.7.2"
+  },
+  {
+    "id":26,
+    "dateGA":"2016-11-11T03:00:00.000Z",
+    "description":"Customer 26",
+    "domain":"www.customer26.com",
+    "host":"customer26.customers.com",
+    "name":"customer26",
+    "type":"Lite",
+    "version":"4.6.18.6"
+  },
+  {
+    "id":27,
+    "dateGA":"2016-08-26T03:00:00.000Z",
+    "description":"Customer 27",
+    "domain":"www.customer27.com",
+    "host":"customer27.customers.com",
+    "name":"customer27",
+    "type":"Enterprise",
+    "version":"4.3.8.6"
+  },
+  {
+    "id":28,
+    "dateGA":"2016-11-24T03:00:00.000Z",
+    "description":"Customer 28",
+    "domain":"www.customer28.com",
+    "host":"customer28.customers.com",
+    "name":"customer28",
+    "type":"Lite",
+    "version":"5.4.1.7"
+  },
+  {
+    "id":29,
+    "dateGA":"2016-10-08T03:00:00.000Z",
+    "description":"Customer 29",
+    "domain":"www.customer29.com",
+    "host":"customer29.customers.com",
+    "name":"customer29",
+    "type":"Enterprise",
+    "version":"5.9.6.5"
+  },
+  {
+    "id":30,
+    "dateGA":"2016-05-18T03:00:00.000Z",
+    "description":"Customer 30",
+    "domain":"www.customer30.com",
+    "host":"customer30.customers.com",
+    "name":"customer30",
+    "type":"Lite",
+    "version":"5.1.10.1"
+  },
+  {
+    "id":31,
+    "dateGA":"2016-01-27T03:00:00.000Z",
+    "description":"Customer 31",
+    "domain":"www.customer31.com",
+    "host":"customer31.customers.com",
+    "name":"customer31",
+    "type":"Enterprise",
+    "version":"5.1.8.5"
+  },
+  {
+    "id":32,
+    "dateGA":"2016-01-10T03:00:00.000Z",
+    "description":"Customer 32",
+    "domain":"www.customer32.com",
+    "host":"customer32.customers.com",
+    "name":"customer32",
+    "type":"Lite",
+    "version":"4.1.14.6"
+  },
+  {
+    "id":33,
+    "dateGA":"2016-05-04T03:00:00.000Z",
+    "description":"Customer 33",
+    "domain":"www.customer33.com",
+    "host":"customer33.customers.com",
+    "name":"customer33",
+    "type":"Enterprise",
+    "version":"5.5.19.4"
+  },
+  {
+    "id":34,
+    "dateGA":"2016-10-08T03:00:00.000Z",
+    "description":"Customer 34",
+    "domain":"www.customer34.com",
+    "host":"customer34.customers.com",
+    "name":"customer34",
+    "type":"Lite",
+    "version":"5.8.6.3"
+  },
+  {
+    "id":35,
+    "dateGA":"2016-07-04T03:00:00.000Z",
+    "description":"Customer 35",
+    "domain":"www.customer35.com",
+    "host":"customer35.customers.com",
+    "name":"customer35",
+    "type":"Lite",
+    "version":"5.7.3.5"
+  },
+  {
+    "id":36,
+    "dateGA":"2016-06-22T03:00:00.000Z",
+    "description":"Customer 36",
+    "domain":"www.customer36.com",
+    "host":"customer36.customers.com",
+    "name":"customer36",
+    "type":"Lite",
+    "version":"5.1.8.4"
+  },
+  {
+    "id":37,
+    "dateGA":"2016-10-02T03:00:00.000Z",
+    "description":"Customer 37",
+    "domain":"www.customer37.com",
+    "host":"customer37.customers.com",
+    "name":"customer37",
+    "type":"Enterprise",
+    "version":"4.2.7.4"
+  },
+  {
+    "id":38,
+    "dateGA":"2016-06-06T03:00:00.000Z",
+    "description":"Customer 38",
+    "domain":"www.customer38.com",
+    "host":"customer38.customers.com",
+    "name":"customer38",
+    "type":"Lite",
+    "version":"5.9.6.2"
+  },
+  {
+    "id":39,
+    "dateGA":"2016-04-13T03:00:00.000Z",
+    "description":"Customer 39",
+    "domain":"www.customer39.com",
+    "host":"customer39.customers.com",
+    "name":"customer39",
+    "type":"Enterprise",
+    "version":"4.9.19.4"
+  },
+  {
+    "id":40,
+    "dateGA":"2016-09-05T03:00:00.000Z",
+    "description":"Customer 40",
+    "domain":"www.customer40.com",
+    "host":"customer40.customers.com",
+    "name":"customer40",
+    "type":"Lite",
+    "version":"4.5.6.3"
+  },
+  {
+    "id":41,
+    "dateGA":"2016-07-06T03:00:00.000Z",
+    "description":"Customer 41",
+    "domain":"www.customer41.com",
+    "host":"customer41.customers.com",
+    "name":"customer41",
+    "type":"Enterprise",
+    "version":"4.5.6.6"
+  },
+  {
+    "id":42,
+    "dateGA":"2016-10-20T03:00:00.000Z",
+    "description":"Customer 42",
+    "domain":"www.customer42.com",
+    "host":"customer42.customers.com",
+    "name":"customer42",
+    "type":"Lite",
+    "version":"5.8.15.6"
+  },
+  {
+    "id":43,
+    "dateGA":"2016-09-17T03:00:00.000Z",
+    "description":"Customer 43",
+    "domain":"www.customer43.com",
+    "host":"customer43.customers.com",
+    "name":"customer43",
+    "type":"Enterprise",
+    "version":"5.7.5.6"
+  },
+  {
+    "id":44,
+    "dateGA":"2016-12-20T03:00:00.000Z",
+    "description":"Customer 44",
+    "domain":"www.customer44.com",
+    "host":"customer44.customers.com",
+    "name":"customer44",
+    "type":"Lite",
+    "version":"5.6.3.5"
+  },
+  {
+    "id":45,
+    "dateGA":"2016-03-11T03:00:00.000Z",
+    "description":"Customer 45",
+    "domain":"www.customer45.com",
+    "host":"customer45.customers.com",
+    "name":"customer45",
+    "type":"Lite",
+    "version":"4.4.10.2"
+  },
+  {
+    "id":46,
+    "dateGA":"2016-02-17T03:00:00.000Z",
+    "description":"Customer 46",
+    "domain":"www.customer46.com",
+    "host":"customer46.customers.com",
+    "name":"customer46",
+    "type":"Lite",
+    "version":"4.9.11.2"
+  },
+  {
+    "id":47,
+    "dateGA":"2016-06-15T03:00:00.000Z",
+    "description":"Customer 47",
+    "domain":"www.customer47.com",
+    "host":"customer47.customers.com",
+    "name":"customer47",
+    "type":"Enterprise",
+    "version":"5.5.15.2"
+  },
+  {
+    "id":48,
+    "dateGA":"2016-02-08T03:00:00.000Z",
+    "description":"Customer 48",
+    "domain":"www.customer48.com",
+    "host":"customer48.customers.com",
+    "name":"customer48",
+    "type":"Lite",
+    "version":"5.7.8.6"
+  },
+  {
+    "id":49,
+    "dateGA":"2016-09-20T03:00:00.000Z",
+    "description":"Customer 49",
+    "domain":"www.customer49.com",
+    "host":"customer49.customers.com",
+    "name":"customer49",
+    "type":"Enterprise",
+    "version":"4.4.19.2"
+  },
+  {
+    "id":50,
+    "dateGA":"2016-10-08T03:00:00.000Z",
+    "description":"Customer 50",
+    "domain":"www.customer50.com",
+    "host":"customer50.customers.com",
+    "name":"customer50",
+    "type":"Lite",
+    "version":"5.1.4.2"
+  },
+  {
+    "id":51,
+    "dateGA":"2016-10-14T03:00:00.000Z",
+    "description":"Customer 51",
+    "domain":"www.customer51.com",
+    "host":"customer51.customers.com",
+    "name":"customer51",
+    "type":"Enterprise",
+    "version":"5.1.13.4"
+  },
+  {
+    "id":52,
+    "dateGA":"2016-04-04T03:00:00.000Z",
+    "description":"Customer 52",
+    "domain":"www.customer52.com",
+    "host":"customer52.customers.com",
+    "name":"customer52",
+    "type":"Lite",
+    "version":"5.7.8.5"
+  },
+  {
+    "id":53,
+    "dateGA":"2016-09-15T03:00:00.000Z",
+    "description":"Customer 53",
+    "domain":"www.customer53.com",
+    "host":"customer53.customers.com",
+    "name":"customer53",
+    "type":"Enterprise",
+    "version":"5.1.10.4"
+  },
+  {
+    "id":54,
+    "dateGA":"2016-02-28T03:00:00.000Z",
+    "description":"Customer 54",
+    "domain":"www.customer54.com",
+    "host":"customer54.customers.com",
+    "name":"customer54",
+    "type":"Lite",
+    "version":"5.6.19.6"
+  },
+  {
+    "id":55,
+    "dateGA":"2016-06-17T03:00:00.000Z",
+    "description":"Customer 55",
+    "domain":"www.customer55.com",
+    "host":"customer55.customers.com",
+    "name":"customer55",
+    "type":"Lite",
+    "version":"5.2.10.4"
+  },
+  {
+    "id":56,
+    "dateGA":"2016-12-16T03:00:00.000Z",
+    "description":"Customer 56",
+    "domain":"www.customer56.com",
+    "host":"customer56.customers.com",
+    "name":"customer56",
+    "type":"Lite",
+    "version":"5.2.19.2"
+  },
+  {
+    "id":57,
+    "dateGA":"2016-01-17T03:00:00.000Z",
+    "description":"Customer 57",
+    "domain":"www.customer57.com",
+    "host":"customer57.customers.com",
+    "name":"customer57",
+    "type":"Enterprise",
+    "version":"5.1.14.6"
+  },
+  {
+    "id":58,
+    "dateGA":"2016-03-02T03:00:00.000Z",
+    "description":"Customer 58",
+    "domain":"www.customer58.com",
+    "host":"customer58.customers.com",
+    "name":"customer58",
+    "type":"Lite",
+    "version":"5.7.12.4"
+  },
+  {
+    "id":59,
+    "dateGA":"2016-06-12T03:00:00.000Z",
+    "description":"Customer 59",
+    "domain":"www.customer59.com",
+    "host":"customer59.customers.com",
+    "name":"customer59",
+    "type":"Enterprise",
+    "version":"5.8.8.1"
+  },
+  {
+    "id":60,
+    "dateGA":"2016-11-07T03:00:00.000Z",
+    "description":"Customer 60",
+    "domain":"www.customer60.com",
+    "host":"customer60.customers.com",
+    "name":"customer60",
+    "type":"Lite",
+    "version":"5.3.16.2"
+  },
+  {
+    "id":61,
+    "dateGA":"2016-05-09T03:00:00.000Z",
+    "description":"Customer 61",
+    "domain":"www.customer61.com",
+    "host":"customer61.customers.com",
+    "name":"customer61",
+    "type":"Enterprise",
+    "version":"4.8.16.5"
+  },
+  {
+    "id":62,
+    "dateGA":"2016-10-26T03:00:00.000Z",
+    "description":"Customer 62",
+    "domain":"www.customer62.com",
+    "host":"customer62.customers.com",
+    "name":"customer62",
+    "type":"Lite",
+    "version":"5.9.18.2"
+  },
+  {
+    "id":63,
+    "dateGA":"2016-05-13T03:00:00.000Z",
+    "description":"Customer 63",
+    "domain":"www.customer63.com",
+    "host":"customer63.customers.com",
+    "name":"customer63",
+    "type":"Enterprise",
+    "version":"5.6.11.2"
+  },
+  {
+    "id":64,
+    "dateGA":"2016-07-14T03:00:00.000Z",
+    "description":"Customer 64",
+    "domain":"www.customer64.com",
+    "host":"customer64.customers.com",
+    "name":"customer64",
+    "type":"Lite",
+    "version":"5.5.5.1"
+  },
+  {
+    "id":65,
+    "dateGA":"2016-09-20T03:00:00.000Z",
+    "description":"Customer 65",
+    "domain":"www.customer65.com",
+    "host":"customer65.customers.com",
+    "name":"customer65",
+    "type":"Lite",
+    "version":"5.6.5.3"
+  },
+  {
+    "id":66,
+    "dateGA":"2016-10-13T03:00:00.000Z",
+    "description":"Customer 66",
+    "domain":"www.customer66.com",
+    "host":"customer66.customers.com",
+    "name":"customer66",
+    "type":"Lite",
+    "version":"4.1.13.1"
+  },
+  {
+    "id":67,
+    "dateGA":"2016-03-10T03:00:00.000Z",
+    "description":"Customer 67",
+    "domain":"www.customer67.com",
+    "host":"customer67.customers.com",
+    "name":"customer67",
+    "type":"Enterprise",
+    "version":"5.1.4.3"
+  },
+  {
+    "id":68,
+    "dateGA":"2016-10-05T03:00:00.000Z",
+    "description":"Customer 68",
+    "domain":"www.customer68.com",
+    "host":"customer68.customers.com",
+    "name":"customer68",
+    "type":"Lite",
+    "version":"5.4.9.7"
+  },
+  {
+    "id":69,
+    "dateGA":"2016-02-19T03:00:00.000Z",
+    "description":"Customer 69",
+    "domain":"www.customer69.com",
+    "host":"customer69.customers.com",
+    "name":"customer69",
+    "type":"Enterprise",
+    "version":"5.8.10.4"
+  },
+  {
+    "id":70,
+    "dateGA":"2016-07-01T03:00:00.000Z",
+    "description":"Customer 70",
+    "domain":"www.customer70.com",
+    "host":"customer70.customers.com",
+    "name":"customer70",
+    "type":"Lite",
+    "version":"5.8.5.6"
+  },
+  {
+    "id":71,
+    "dateGA":"2016-01-25T03:00:00.000Z",
+    "description":"Customer 71",
+    "domain":"www.customer71.com",
+    "host":"customer71.customers.com",
+    "name":"customer71",
+    "type":"Enterprise",
+    "version":"5.6.14.5"
+  },
+  {
+    "id":72,
+    "dateGA":"2016-08-24T03:00:00.000Z",
+    "description":"Customer 72",
+    "domain":"www.customer72.com",
+    "host":"customer72.customers.com",
+    "name":"customer72",
+    "type":"Lite",
+    "version":"4.8.11.1"
+  },
+  {
+    "id":73,
+    "dateGA":"2016-03-25T03:00:00.000Z",
+    "description":"Customer 73",
+    "domain":"www.customer73.com",
+    "host":"customer73.customers.com",
+    "name":"customer73",
+    "type":"Enterprise",
+    "version":"5.4.1.3"
+  },
+  {
+    "id":74,
+    "dateGA":"2016-01-25T03:00:00.000Z",
+    "description":"Customer 74",
+    "domain":"www.customer74.com",
+    "host":"customer74.customers.com",
+    "name":"customer74",
+    "type":"Lite",
+    "version":"5.4.16.5"
+  },
+  {
+    "id":75,
+    "dateGA":"2016-10-05T03:00:00.000Z",
+    "description":"Customer 75",
+    "domain":"www.customer75.com",
+    "host":"customer75.customers.com",
+    "name":"customer75",
+    "type":"Lite",
+    "version":"5.8.11.3"
+  },
+  {
+    "id":76,
+    "dateGA":"2016-05-23T03:00:00.000Z",
+    "description":"Customer 76",
+    "domain":"www.customer76.com",
+    "host":"customer76.customers.com",
+    "name":"customer76",
+    "type":"Lite",
+    "version":"5.3.13.2"
+  },
+  {
+    "id":77,
+    "dateGA":"2016-02-19T03:00:00.000Z",
+    "description":"Customer 77",
+    "domain":"www.customer77.com",
+    "host":"customer77.customers.com",
+    "name":"customer77",
+    "type":"Enterprise",
+    "version":"5.7.14.1"
+  },
+  {
+    "id":78,
+    "dateGA":"2016-12-18T03:00:00.000Z",
+    "description":"Customer 78",
+    "domain":"www.customer78.com",
+    "host":"customer78.customers.com",
+    "name":"customer78",
+    "type":"Lite",
+    "version":"4.2.19.3"
+  },
+  {
+    "id":79,
+    "dateGA":"2016-03-11T03:00:00.000Z",
+    "description":"Customer 79",
+    "domain":"www.customer79.com",
+    "host":"customer79.customers.com",
+    "name":"customer79",
+    "type":"Enterprise",
+    "version":"4.9.17.5"
+  },
+  {
+    "id":80,
+    "dateGA":"2016-05-10T03:00:00.000Z",
+    "description":"Customer 80",
+    "domain":"www.customer80.com",
+    "host":"customer80.customers.com",
+    "name":"customer80",
+    "type":"Lite",
+    "version":"4.7.18.3"
+  },
+  {
+    "id":81,
+    "dateGA":"2016-04-07T03:00:00.000Z",
+    "description":"Customer 81",
+    "domain":"www.customer81.com",
+    "host":"customer81.customers.com",
+    "name":"customer81",
+    "type":"Enterprise",
+    "version":"4.9.3.4"
+  },
+  {
+    "id":82,
+    "dateGA":"2016-02-03T03:00:00.000Z",
+    "description":"Customer 82",
+    "domain":"www.customer82.com",
+    "host":"customer82.customers.com",
+    "name":"customer82",
+    "type":"Lite",
+    "version":"5.7.1.6"
+  },
+  {
+    "id":83,
+    "dateGA":"2016-05-08T03:00:00.000Z",
+    "description":"Customer 83",
+    "domain":"www.customer83.com",
+    "host":"customer83.customers.com",
+    "name":"customer83",
+    "type":"Enterprise",
+    "version":"5.2.2.4"
+  },
+  {
+    "id":84,
+    "dateGA":"2016-05-09T03:00:00.000Z",
+    "description":"Customer 84",
+    "domain":"www.customer84.com",
+    "host":"customer84.customers.com",
+    "name":"customer84",
+    "type":"Lite",
+    "version":"4.8.18.6"
+  },
+  {
+    "id":85,
+    "dateGA":"2016-02-12T03:00:00.000Z",
+    "description":"Customer 85",
+    "domain":"www.customer85.com",
+    "host":"customer85.customers.com",
+    "name":"customer85",
+    "type":"Lite",
+    "version":"4.1.7.3"
+  },
+  {
+    "id":86,
+    "dateGA":"2016-11-17T03:00:00.000Z",
+    "description":"Customer 86",
+    "domain":"www.customer86.com",
+    "host":"customer86.customers.com",
+    "name":"customer86",
+    "type":"Lite",
+    "version":"4.1.13.2"
+  },
+  {
+    "id":87,
+    "dateGA":"2016-11-09T03:00:00.000Z",
+    "description":"Customer 87",
+    "domain":"www.customer87.com",
+    "host":"customer87.customers.com",
+    "name":"customer87",
+    "type":"Enterprise",
+    "version":"5.1.8.4"
+  },
+  {
+    "id":88,
+    "dateGA":"2016-01-17T03:00:00.000Z",
+    "description":"Customer 88",
+    "domain":"www.customer88.com",
+    "host":"customer88.customers.com",
+    "name":"customer88",
+    "type":"Lite",
+    "version":"4.5.6.2"
+  },
+  {
+    "id":89,
+    "dateGA":"2016-09-27T03:00:00.000Z",
+    "description":"Customer 89",
+    "domain":"www.customer89.com",
+    "host":"customer89.customers.com",
+    "name":"customer89",
+    "type":"Enterprise",
+    "version":"5.2.6.6"
+  },
+  {
+    "id":90,
+    "dateGA":"2016-10-02T03:00:00.000Z",
+    "description":"Customer 90",
+    "domain":"www.customer90.com",
+    "host":"customer90.customers.com",
+    "name":"customer90",
+    "type":"Lite",
+    "version":"5.8.3.3"
+  },
+  {
+    "id":91,
+    "dateGA":"2016-06-10T03:00:00.000Z",
+    "description":"Customer 91",
+    "domain":"www.customer91.com",
+    "host":"customer91.customers.com",
+    "name":"customer91",
+    "type":"Enterprise",
+    "version":"5.2.18.3"
+  },
+  {
+    "id":92,
+    "dateGA":"2016-09-06T03:00:00.000Z",
+    "description":"Customer 92",
+    "domain":"www.customer92.com",
+    "host":"customer92.customers.com",
+    "name":"customer92",
+    "type":"Lite",
+    "version":"5.9.1.1"
+  },
+  {
+    "id":93,
+    "dateGA":"2016-07-26T03:00:00.000Z",
+    "description":"Customer 93",
+    "domain":"www.customer93.com",
+    "host":"customer93.customers.com",
+    "name":"customer93",
+    "type":"Enterprise",
+    "version":"5.8.2.3"
+  },
+  {
+    "id":94,
+    "dateGA":"2016-02-24T03:00:00.000Z",
+    "description":"Customer 94",
+    "domain":"www.customer94.com",
+    "host":"customer94.customers.com",
+    "name":"customer94",
+    "type":"Lite",
+    "version":"5.3.10.3"
+  },
+  {
+    "id":95,
+    "dateGA":"2016-09-04T03:00:00.000Z",
+    "description":"Customer 95",
+    "domain":"www.customer95.com",
+    "host":"customer95.customers.com",
+    "name":"customer95",
+    "type":"Lite",
+    "version":"5.1.18.5"
+  },
+  {
+    "id":96,
+    "dateGA":"2016-06-22T03:00:00.000Z",
+    "description":"Customer 96",
+    "domain":"www.customer96.com",
+    "host":"customer96.customers.com",
+    "name":"customer96",
+    "type":"Lite",
+    "version":"5.6.16.1"
+  },
+  {
+    "id":97,
+    "dateGA":"2016-07-12T03:00:00.000Z",
+    "description":"Customer 97",
+    "domain":"www.customer97.com",
+    "host":"customer97.customers.com",
+    "name":"customer97",
+    "type":"Enterprise",
+    "version":"4.1.16.2"
+  },
+  {
+    "id":98,
+    "dateGA":"2016-10-06T03:00:00.000Z",
+    "description":"Customer 98",
+    "domain":"www.customer98.com",
+    "host":"customer98.customers.com",
+    "name":"customer98",
+    "type":"Lite",
+    "version":"5.7.6.6"
+  },
+  {
+    "id":99,
+    "dateGA":"2016-01-06T03:00:00.000Z",
+    "description":"Customer 99",
+    "domain":"www.customer99.com",
+    "host":"customer99.customers.com",
+    "name":"customer99",
+    "type":"Enterprise",
+    "version":"5.4.19.6"
+  },
+  {
+    "id":100,
+    "dateGA":"2016-10-22T03:00:00.000Z",
+    "description":"Customer 100",
+    "domain":"www.customer100.com",
+    "host":"customer100.customers.com",
+    "name":"customer100",
+    "type":"Lite",
+    "version":"5.8.13.6"
+  },
+  {
+    "id":101,
+    "dateGA":"2016-02-05T03:00:00.000Z",
+    "description":"Customer 101",
+    "domain":"www.customer101.com",
+    "host":"customer101.customers.com",
+    "name":"customer101",
+    "type":"Enterprise",
+    "version":"4.6.18.6"
+  },
+  {
+    "id":102,
+    "dateGA":"2016-09-21T03:00:00.000Z",
+    "description":"Customer 102",
+    "domain":"www.customer102.com",
+    "host":"customer102.customers.com",
+    "name":"customer102",
+    "type":"Lite",
+    "version":"5.4.2.5"
+  },
+  {
+    "id":103,
+    "dateGA":"2016-03-09T03:00:00.000Z",
+    "description":"Customer 103",
+    "domain":"www.customer103.com",
+    "host":"customer103.customers.com",
+    "name":"customer103",
+    "type":"Enterprise",
+    "version":"5.9.2.2"
+  },
+  {
+    "id":104,
+    "dateGA":"2016-06-12T03:00:00.000Z",
+    "description":"Customer 104",
+    "domain":"www.customer104.com",
+    "host":"customer104.customers.com",
+    "name":"customer104",
+    "type":"Lite",
+    "version":"5.2.8.2"
+  },
+  {
+    "id":105,
+    "dateGA":"2016-04-25T03:00:00.000Z",
+    "description":"Customer 105",
+    "domain":"www.customer105.com",
+    "host":"customer105.customers.com",
+    "name":"customer105",
+    "type":"Lite",
+    "version":"5.2.19.1"
+  },
+  {
+    "id":106,
+    "dateGA":"2016-11-13T03:00:00.000Z",
+    "description":"Customer 106",
+    "domain":"www.customer106.com",
+    "host":"customer106.customers.com",
+    "name":"customer106",
+    "type":"Lite",
+    "version":"5.7.8.5"
+  },
+  {
+    "id":107,
+    "dateGA":"2016-01-12T03:00:00.000Z",
+    "description":"Customer 107",
+    "domain":"www.customer107.com",
+    "host":"customer107.customers.com",
+    "name":"customer107",
+    "type":"Enterprise",
+    "version":"5.5.18.2"
+  },
+  {
+    "id":108,
+    "dateGA":"2016-05-11T03:00:00.000Z",
+    "description":"Customer 108",
+    "domain":"www.customer108.com",
+    "host":"customer108.customers.com",
+    "name":"customer108",
+    "type":"Lite",
+    "version":"4.9.18.2"
+  },
+  {
+    "id":109,
+    "dateGA":"2016-06-12T03:00:00.000Z",
+    "description":"Customer 109",
+    "domain":"www.customer109.com",
+    "host":"customer109.customers.com",
+    "name":"customer109",
+    "type":"Enterprise",
+    "version":"5.8.17.7"
+  },
+  {
+    "id":110,
+    "dateGA":"2016-08-27T03:00:00.000Z",
+    "description":"Customer 110",
+    "domain":"www.customer110.com",
+    "host":"customer110.customers.com",
+    "name":"customer110",
+    "type":"Lite",
+    "version":"4.5.13.4"
+  },
+  {
+    "id":111,
+    "dateGA":"2016-02-16T03:00:00.000Z",
+    "description":"Customer 111",
+    "domain":"www.customer111.com",
+    "host":"customer111.customers.com",
+    "name":"customer111",
+    "type":"Enterprise",
+    "version":"5.4.6.7"
+  },
+  {
+    "id":112,
+    "dateGA":"2016-04-24T03:00:00.000Z",
+    "description":"Customer 112",
+    "domain":"www.customer112.com",
+    "host":"customer112.customers.com",
+    "name":"customer112",
+    "type":"Lite",
+    "version":"4.1.14.7"
+  },
+  {
+    "id":113,
+    "dateGA":"2016-01-22T03:00:00.000Z",
+    "description":"Customer 113",
+    "domain":"www.customer113.com",
+    "host":"customer113.customers.com",
+    "name":"customer113",
+    "type":"Enterprise",
+    "version":"5.7.8.1"
+  },
+  {
+    "id":114,
+    "dateGA":"2016-05-15T03:00:00.000Z",
+    "description":"Customer 114",
+    "domain":"www.customer114.com",
+    "host":"customer114.customers.com",
+    "name":"customer114",
+    "type":"Lite",
+    "version":"5.5.16.3"
+  },
+  {
+    "id":115,
+    "dateGA":"2016-12-01T03:00:00.000Z",
+    "description":"Customer 115",
+    "domain":"www.customer115.com",
+    "host":"customer115.customers.com",
+    "name":"customer115",
+    "type":"Lite",
+    "version":"5.3.15.4"
+  },
+  {
+    "id":116,
+    "dateGA":"2016-08-06T03:00:00.000Z",
+    "description":"Customer 116",
+    "domain":"www.customer116.com",
+    "host":"customer116.customers.com",
+    "name":"customer116",
+    "type":"Lite",
+    "version":"5.5.5.2"
+  },
+  {
+    "id":117,
+    "dateGA":"2016-06-18T03:00:00.000Z",
+    "description":"Customer 117",
+    "domain":"www.customer117.com",
+    "host":"customer117.customers.com",
+    "name":"customer117",
+    "type":"Enterprise",
+    "version":"4.6.9.3"
+  },
+  {
+    "id":118,
+    "dateGA":"2016-01-09T03:00:00.000Z",
+    "description":"Customer 118",
+    "domain":"www.customer118.com",
+    "host":"customer118.customers.com",
+    "name":"customer118",
+    "type":"Lite",
+    "version":"5.7.13.5"
+  },
+  {
+    "id":119,
+    "dateGA":"2016-08-01T03:00:00.000Z",
+    "description":"Customer 119",
+    "domain":"www.customer119.com",
+    "host":"customer119.customers.com",
+    "name":"customer119",
+    "type":"Enterprise",
+    "version":"5.3.4.3"
+  },
+  {
+    "id":120,
+    "dateGA":"2016-02-14T03:00:00.000Z",
+    "description":"Customer 120",
+    "domain":"www.customer120.com",
+    "host":"customer120.customers.com",
+    "name":"customer120",
+    "type":"Lite",
+    "version":"4.3.4.7"
+  },
+  {
+    "id":121,
+    "dateGA":"2016-09-21T03:00:00.000Z",
+    "description":"Customer 121",
+    "domain":"www.customer121.com",
+    "host":"customer121.customers.com",
+    "name":"customer121",
+    "type":"Enterprise",
+    "version":"4.5.14.3"
+  },
+  {
+    "id":122,
+    "dateGA":"2016-08-21T03:00:00.000Z",
+    "description":"Customer 122",
+    "domain":"www.customer122.com",
+    "host":"customer122.customers.com",
+    "name":"customer122",
+    "type":"Lite",
+    "version":"5.7.4.1"
+  },
+  {
+    "id":123,
+    "dateGA":"2016-04-28T03:00:00.000Z",
+    "description":"Customer 123",
+    "domain":"www.customer123.com",
+    "host":"customer123.customers.com",
+    "name":"customer123",
+    "type":"Enterprise",
+    "version":"5.6.6.2"
+  },
+  {
+    "id":124,
+    "dateGA":"2016-08-03T03:00:00.000Z",
+    "description":"Customer 124",
+    "domain":"www.customer124.com",
+    "host":"customer124.customers.com",
+    "name":"customer124",
+    "type":"Lite",
+    "version":"5.7.1.7"
+  },
+  {
+    "id":125,
+    "dateGA":"2016-05-17T03:00:00.000Z",
+    "description":"Customer 125",
+    "domain":"www.customer125.com",
+    "host":"customer125.customers.com",
+    "name":"customer125",
+    "type":"Lite",
+    "version":"5.7.15.1"
+  },
+  {
+    "id":126,
+    "dateGA":"2016-07-24T03:00:00.000Z",
+    "description":"Customer 126",
+    "domain":"www.customer126.com",
+    "host":"customer126.customers.com",
+    "name":"customer126",
+    "type":"Lite",
+    "version":"5.2.12.7"
+  },
+  {
+    "id":127,
+    "dateGA":"2016-07-10T03:00:00.000Z",
+    "description":"Customer 127",
+    "domain":"www.customer127.com",
+    "host":"customer127.customers.com",
+    "name":"customer127",
+    "type":"Enterprise",
+    "version":"5.9.8.7"
+  },
+  {
+    "id":128,
+    "dateGA":"2016-07-05T03:00:00.000Z",
+    "description":"Customer 128",
+    "domain":"www.customer128.com",
+    "host":"customer128.customers.com",
+    "name":"customer128",
+    "type":"Lite",
+    "version":"5.8.8.7"
+  },
+  {
+    "id":129,
+    "dateGA":"2016-02-24T03:00:00.000Z",
+    "description":"Customer 129",
+    "domain":"www.customer129.com",
+    "host":"customer129.customers.com",
+    "name":"customer129",
+    "type":"Enterprise",
+    "version":"5.2.18.2"
+  },
+  {
+    "id":130,
+    "dateGA":"2016-05-09T03:00:00.000Z",
+    "description":"Customer 130",
+    "domain":"www.customer130.com",
+    "host":"customer130.customers.com",
+    "name":"customer130",
+    "type":"Lite",
+    "version":"4.9.19.3"
+  },
+  {
+    "id":131,
+    "dateGA":"2016-10-18T03:00:00.000Z",
+    "description":"Customer 131",
+    "domain":"www.customer131.com",
+    "host":"customer131.customers.com",
+    "name":"customer131",
+    "type":"Enterprise",
+    "version":"5.9.3.4"
+  },
+  {
+    "id":132,
+    "dateGA":"2016-10-07T03:00:00.000Z",
+    "description":"Customer 132",
+    "domain":"www.customer132.com",
+    "host":"customer132.customers.com",
+    "name":"customer132",
+    "type":"Lite",
+    "version":"4.1.13.2"
+  },
+  {
+    "id":133,
+    "dateGA":"2016-12-05T03:00:00.000Z",
+    "description":"Customer 133",
+    "domain":"www.customer133.com",
+    "host":"customer133.customers.com",
+    "name":"customer133",
+    "type":"Enterprise",
+    "version":"5.1.9.4"
+  },
+  {
+    "id":134,
+    "dateGA":"2016-05-03T03:00:00.000Z",
+    "description":"Customer 134",
+    "domain":"www.customer134.com",
+    "host":"customer134.customers.com",
+    "name":"customer134",
+    "type":"Lite",
+    "version":"4.4.1.2"
+  },
+  {
+    "id":135,
+    "dateGA":"2016-09-04T03:00:00.000Z",
+    "description":"Customer 135",
+    "domain":"www.customer135.com",
+    "host":"customer135.customers.com",
+    "name":"customer135",
+    "type":"Lite",
+    "version":"5.4.15.7"
+  },
+  {
+    "id":136,
+    "dateGA":"2016-09-17T03:00:00.000Z",
+    "description":"Customer 136",
+    "domain":"www.customer136.com",
+    "host":"customer136.customers.com",
+    "name":"customer136",
+    "type":"Lite",
+    "version":"5.4.6.5"
+  },
+  {
+    "id":137,
+    "dateGA":"2016-11-26T03:00:00.000Z",
+    "description":"Customer 137",
+    "domain":"www.customer137.com",
+    "host":"customer137.customers.com",
+    "name":"customer137",
+    "type":"Enterprise",
+    "version":"4.6.7.1"
+  },
+  {
+    "id":138,
+    "dateGA":"2016-04-07T03:00:00.000Z",
+    "description":"Customer 138",
+    "domain":"www.customer138.com",
+    "host":"customer138.customers.com",
+    "name":"customer138",
+    "type":"Lite",
+    "version":"4.9.19.1"
+  },
+  {
+    "id":139,
+    "dateGA":"2016-03-04T03:00:00.000Z",
+    "description":"Customer 139",
+    "domain":"www.customer139.com",
+    "host":"customer139.customers.com",
+    "name":"customer139",
+    "type":"Enterprise",
+    "version":"5.8.11.3"
+  },
+  {
+    "id":140,
+    "dateGA":"2016-11-28T03:00:00.000Z",
+    "description":"Customer 140",
+    "domain":"www.customer140.com",
+    "host":"customer140.customers.com",
+    "name":"customer140",
+    "type":"Lite",
+    "version":"4.4.11.6"
+  },
+  {
+    "id":141,
+    "dateGA":"2016-01-15T03:00:00.000Z",
+    "description":"Customer 141",
+    "domain":"www.customer141.com",
+    "host":"customer141.customers.com",
+    "name":"customer141",
+    "type":"Enterprise",
+    "version":"4.1.9.1"
+  },
+  {
+    "id":142,
+    "dateGA":"2016-02-07T03:00:00.000Z",
+    "description":"Customer 142",
+    "domain":"www.customer142.com",
+    "host":"customer142.customers.com",
+    "name":"customer142",
+    "type":"Lite",
+    "version":"5.3.3.4"
+  },
+  {
+    "id":143,
+    "dateGA":"2016-08-24T03:00:00.000Z",
+    "description":"Customer 143",
+    "domain":"www.customer143.com",
+    "host":"customer143.customers.com",
+    "name":"customer143",
+    "type":"Enterprise",
+    "version":"5.4.11.3"
+  },
+  {
+    "id":144,
+    "dateGA":"2016-05-21T03:00:00.000Z",
+    "description":"Customer 144",
+    "domain":"www.customer144.com",
+    "host":"customer144.customers.com",
+    "name":"customer144",
+    "type":"Lite",
+    "version":"5.5.10.6"
+  },
+  {
+    "id":145,
+    "dateGA":"2016-01-12T03:00:00.000Z",
+    "description":"Customer 145",
+    "domain":"www.customer145.com",
+    "host":"customer145.customers.com",
+    "name":"customer145",
+    "type":"Lite",
+    "version":"5.6.18.7"
+  },
+  {
+    "id":146,
+    "dateGA":"2016-03-10T03:00:00.000Z",
+    "description":"Customer 146",
+    "domain":"www.customer146.com",
+    "host":"customer146.customers.com",
+    "name":"customer146",
+    "type":"Lite",
+    "version":"5.1.13.4"
+  },
+  {
+    "id":147,
+    "dateGA":"2016-11-13T03:00:00.000Z",
+    "description":"Customer 147",
+    "domain":"www.customer147.com",
+    "host":"customer147.customers.com",
+    "name":"customer147",
+    "type":"Enterprise",
+    "version":"5.7.3.6"
+  },
+  {
+    "id":148,
+    "dateGA":"2016-07-06T03:00:00.000Z",
+    "description":"Customer 148",
+    "domain":"www.customer148.com",
+    "host":"customer148.customers.com",
+    "name":"customer148",
+    "type":"Lite",
+    "version":"5.6.4.2"
+  },
+  {
+    "id":149,
+    "dateGA":"2016-07-10T03:00:00.000Z",
+    "description":"Customer 149",
+    "domain":"www.customer149.com",
+    "host":"customer149.customers.com",
+    "name":"customer149",
+    "type":"Enterprise",
+    "version":"4.7.18.3"
+  },
+  {
+    "id":150,
+    "dateGA":"2016-04-01T03:00:00.000Z",
+    "description":"Customer 150",
+    "domain":"www.customer150.com",
+    "host":"customer150.customers.com",
+    "name":"customer150",
+    "type":"Lite",
+    "version":"4.7.15.3"
+  },
+  {
+    "id":151,
+    "dateGA":"2016-10-10T03:00:00.000Z",
+    "description":"Customer 151",
+    "domain":"www.customer151.com",
+    "host":"customer151.customers.com",
+    "name":"customer151",
+    "type":"Enterprise",
+    "version":"5.3.11.5"
+  },
+  {
+    "id":152,
+    "dateGA":"2016-06-27T03:00:00.000Z",
+    "description":"Customer 152",
+    "domain":"www.customer152.com",
+    "host":"customer152.customers.com",
+    "name":"customer152",
+    "type":"Lite",
+    "version":"5.6.19.5"
+  },
+  {
+    "id":153,
+    "dateGA":"2016-01-19T03:00:00.000Z",
+    "description":"Customer 153",
+    "domain":"www.customer153.com",
+    "host":"customer153.customers.com",
+    "name":"customer153",
+    "type":"Enterprise",
+    "version":"4.6.3.7"
+  },
+  {
+    "id":154,
+    "dateGA":"2016-11-27T03:00:00.000Z",
+    "description":"Customer 154",
+    "domain":"www.customer154.com",
+    "host":"customer154.customers.com",
+    "name":"customer154",
+    "type":"Lite",
+    "version":"5.4.15.4"
+  },
+  {
+    "id":155,
+    "dateGA":"2016-06-06T03:00:00.000Z",
+    "description":"Customer 155",
+    "domain":"www.customer155.com",
+    "host":"customer155.customers.com",
+    "name":"customer155",
+    "type":"Lite",
+    "version":"4.3.5.6"
+  },
+  {
+    "id":156,
+    "dateGA":"2016-02-17T03:00:00.000Z",
+    "description":"Customer 156",
+    "domain":"www.customer156.com",
+    "host":"customer156.customers.com",
+    "name":"customer156",
+    "type":"Lite",
+    "version":"5.2.17.7"
+  },
+  {
+    "id":157,
+    "dateGA":"2016-09-03T03:00:00.000Z",
+    "description":"Customer 157",
+    "domain":"www.customer157.com",
+    "host":"customer157.customers.com",
+    "name":"customer157",
+    "type":"Enterprise",
+    "version":"5.3.15.5"
+  },
+  {
+    "id":158,
+    "dateGA":"2016-06-20T03:00:00.000Z",
+    "description":"Customer 158",
+    "domain":"www.customer158.com",
+    "host":"customer158.customers.com",
+    "name":"customer158",
+    "type":"Lite",
+    "version":"4.9.8.3"
+  },
+  {
+    "id":159,
+    "dateGA":"2016-12-27T03:00:00.000Z",
+    "description":"Customer 159",
+    "domain":"www.customer159.com",
+    "host":"customer159.customers.com",
+    "name":"customer159",
+    "type":"Enterprise",
+    "version":"5.4.15.6"
+  },
+  {
+    "id":160,
+    "dateGA":"2016-07-13T03:00:00.000Z",
+    "description":"Customer 160",
+    "domain":"www.customer160.com",
+    "host":"customer160.customers.com",
+    "name":"customer160",
+    "type":"Lite",
+    "version":"5.4.15.5"
+  },
+  {
+    "id":161,
+    "dateGA":"2016-10-22T03:00:00.000Z",
+    "description":"Customer 161",
+    "domain":"www.customer161.com",
+    "host":"customer161.customers.com",
+    "name":"customer161",
+    "type":"Enterprise",
+    "version":"5.2.10.3"
+  },
+  {
+    "id":162,
+    "dateGA":"2016-02-19T03:00:00.000Z",
+    "description":"Customer 162",
+    "domain":"www.customer162.com",
+    "host":"customer162.customers.com",
+    "name":"customer162",
+    "type":"Lite",
+    "version":"5.9.5.1"
+  },
+  {
+    "id":163,
+    "dateGA":"2016-12-06T03:00:00.000Z",
+    "description":"Customer 163",
+    "domain":"www.customer163.com",
+    "host":"customer163.customers.com",
+    "name":"customer163",
+    "type":"Enterprise",
+    "version":"4.6.6.6"
+  },
+  {
+    "id":164,
+    "dateGA":"2016-06-22T03:00:00.000Z",
+    "description":"Customer 164",
+    "domain":"www.customer164.com",
+    "host":"customer164.customers.com",
+    "name":"customer164",
+    "type":"Lite",
+    "version":"5.7.16.7"
+  },
+  {
+    "id":165,
+    "dateGA":"2016-07-08T03:00:00.000Z",
+    "description":"Customer 165",
+    "domain":"www.customer165.com",
+    "host":"customer165.customers.com",
+    "name":"customer165",
+    "type":"Lite",
+    "version":"5.1.17.3"
+  },
+  {
+    "id":166,
+    "dateGA":"2016-04-04T03:00:00.000Z",
+    "description":"Customer 166",
+    "domain":"www.customer166.com",
+    "host":"customer166.customers.com",
+    "name":"customer166",
+    "type":"Lite",
+    "version":"5.3.15.1"
+  },
+  {
+    "id":167,
+    "dateGA":"2016-09-19T03:00:00.000Z",
+    "description":"Customer 167",
+    "domain":"www.customer167.com",
+    "host":"customer167.customers.com",
+    "name":"customer167",
+    "type":"Enterprise",
+    "version":"4.8.18.6"
+  },
+  {
+    "id":168,
+    "dateGA":"2016-06-19T03:00:00.000Z",
+    "description":"Customer 168",
+    "domain":"www.customer168.com",
+    "host":"customer168.customers.com",
+    "name":"customer168",
+    "type":"Lite",
+    "version":"5.1.6.2"
+  },
+  {
+    "id":169,
+    "dateGA":"2016-10-07T03:00:00.000Z",
+    "description":"Customer 169",
+    "domain":"www.customer169.com",
+    "host":"customer169.customers.com",
+    "name":"customer169",
+    "type":"Enterprise",
+    "version":"4.4.17.1"
+  },
+  {
+    "id":170,
+    "dateGA":"2016-07-13T03:00:00.000Z",
+    "description":"Customer 170",
+    "domain":"www.customer170.com",
+    "host":"customer170.customers.com",
+    "name":"customer170",
+    "type":"Lite",
+    "version":"5.2.3.4"
+  },
+  {
+    "id":171,
+    "dateGA":"2016-08-23T03:00:00.000Z",
+    "description":"Customer 171",
+    "domain":"www.customer171.com",
+    "host":"customer171.customers.com",
+    "name":"customer171",
+    "type":"Enterprise",
+    "version":"4.5.5.6"
+  },
+  {
+    "id":172,
+    "dateGA":"2016-09-23T03:00:00.000Z",
+    "description":"Customer 172",
+    "domain":"www.customer172.com",
+    "host":"customer172.customers.com",
+    "name":"customer172",
+    "type":"Lite",
+    "version":"5.2.3.7"
+  },
+  {
+    "id":173,
+    "dateGA":"2016-06-08T03:00:00.000Z",
+    "description":"Customer 173",
+    "domain":"www.customer173.com",
+    "host":"customer173.customers.com",
+    "name":"customer173",
+    "type":"Enterprise",
+    "version":"5.7.1.7"
+  },
+  {
+    "id":174,
+    "dateGA":"2016-04-15T03:00:00.000Z",
+    "description":"Customer 174",
+    "domain":"www.customer174.com",
+    "host":"customer174.customers.com",
+    "name":"customer174",
+    "type":"Lite",
+    "version":"5.4.18.3"
+  },
+  {
+    "id":175,
+    "dateGA":"2016-11-12T03:00:00.000Z",
+    "description":"Customer 175",
+    "domain":"www.customer175.com",
+    "host":"customer175.customers.com",
+    "name":"customer175",
+    "type":"Lite",
+    "version":"5.4.1.5"
+  },
+  {
+    "id":176,
+    "dateGA":"2016-01-19T03:00:00.000Z",
+    "description":"Customer 176",
+    "domain":"www.customer176.com",
+    "host":"customer176.customers.com",
+    "name":"customer176",
+    "type":"Lite",
+    "version":"5.5.5.7"
+  },
+  {
+    "id":177,
+    "dateGA":"2016-12-17T03:00:00.000Z",
+    "description":"Customer 177",
+    "domain":"www.customer177.com",
+    "host":"customer177.customers.com",
+    "name":"customer177",
+    "type":"Enterprise",
+    "version":"4.3.16.5"
+  },
+  {
+    "id":178,
+    "dateGA":"2016-06-20T03:00:00.000Z",
+    "description":"Customer 178",
+    "domain":"www.customer178.com",
+    "host":"customer178.customers.com",
+    "name":"customer178",
+    "type":"Lite",
+    "version":"4.2.15.4"
+  },
+  {
+    "id":179,
+    "dateGA":"2016-12-15T03:00:00.000Z",
+    "description":"Customer 179",
+    "domain":"www.customer179.com",
+    "host":"customer179.customers.com",
+    "name":"customer179",
+    "type":"Enterprise",
+    "version":"5.2.13.1"
+  },
+  {
+    "id":180,
+    "dateGA":"2016-02-28T03:00:00.000Z",
+    "description":"Customer 180",
+    "domain":"www.customer180.com",
+    "host":"customer180.customers.com",
+    "name":"customer180",
+    "type":"Lite",
+    "version":"4.5.2.5"
+  },
+  {
+    "id":181,
+    "dateGA":"2016-02-04T03:00:00.000Z",
+    "description":"Customer 181",
+    "domain":"www.customer181.com",
+    "host":"customer181.customers.com",
+    "name":"customer181",
+    "type":"Enterprise",
+    "version":"5.9.8.6"
+  },
+  {
+    "id":182,
+    "dateGA":"2016-11-24T03:00:00.000Z",
+    "description":"Customer 182",
+    "domain":"www.customer182.com",
+    "host":"customer182.customers.com",
+    "name":"customer182",
+    "type":"Lite",
+    "version":"5.8.12.7"
+  },
+  {
+    "id":183,
+    "dateGA":"2016-10-11T03:00:00.000Z",
+    "description":"Customer 183",
+    "domain":"www.customer183.com",
+    "host":"customer183.customers.com",
+    "name":"customer183",
+    "type":"Enterprise",
+    "version":"5.3.8.1"
+  },
+  {
+    "id":184,
+    "dateGA":"2016-05-08T03:00:00.000Z",
+    "description":"Customer 184",
+    "domain":"www.customer184.com",
+    "host":"customer184.customers.com",
+    "name":"customer184",
+    "type":"Lite",
+    "version":"5.5.10.6"
+  },
+  {
+    "id":185,
+    "dateGA":"2016-07-16T03:00:00.000Z",
+    "description":"Customer 185",
+    "domain":"www.customer185.com",
+    "host":"customer185.customers.com",
+    "name":"customer185",
+    "type":"Lite",
+    "version":"5.5.13.4"
+  },
+  {
+    "id":186,
+    "dateGA":"2016-01-19T03:00:00.000Z",
+    "description":"Customer 186",
+    "domain":"www.customer186.com",
+    "host":"customer186.customers.com",
+    "name":"customer186",
+    "type":"Lite",
+    "version":"5.1.3.4"
+  },
+  {
+    "id":187,
+    "dateGA":"2016-08-25T03:00:00.000Z",
+    "description":"Customer 187",
+    "domain":"www.customer187.com",
+    "host":"customer187.customers.com",
+    "name":"customer187",
+    "type":"Enterprise",
+    "version":"4.7.13.6"
+  },
+  {
+    "id":188,
+    "dateGA":"2016-08-09T03:00:00.000Z",
+    "description":"Customer 188",
+    "domain":"www.customer188.com",
+    "host":"customer188.customers.com",
+    "name":"customer188",
+    "type":"Lite",
+    "version":"5.2.12.2"
+  },
+  {
+    "id":189,
+    "dateGA":"2016-03-25T03:00:00.000Z",
+    "description":"Customer 189",
+    "domain":"www.customer189.com",
+    "host":"customer189.customers.com",
+    "name":"customer189",
+    "type":"Enterprise",
+    "version":"5.6.16.1"
+  },
+  {
+    "id":190,
+    "dateGA":"2016-11-04T03:00:00.000Z",
+    "description":"Customer 190",
+    "domain":"www.customer190.com",
+    "host":"customer190.customers.com",
+    "name":"customer190",
+    "type":"Lite",
+    "version":"5.2.15.6"
+  },
+  {
+    "id":191,
+    "dateGA":"2016-06-19T03:00:00.000Z",
+    "description":"Customer 191",
+    "domain":"www.customer191.com",
+    "host":"customer191.customers.com",
+    "name":"customer191",
+    "type":"Enterprise",
+    "version":"5.5.2.1"
+  },
+  {
+    "id":192,
+    "dateGA":"2016-02-14T03:00:00.000Z",
+    "description":"Customer 192",
+    "domain":"www.customer192.com",
+    "host":"customer192.customers.com",
+    "name":"customer192",
+    "type":"Lite",
+    "version":"5.5.5.5"
+  },
+  {
+    "id":193,
+    "dateGA":"2016-07-02T03:00:00.000Z",
+    "description":"Customer 193",
+    "domain":"www.customer193.com",
+    "host":"customer193.customers.com",
+    "name":"customer193",
+    "type":"Enterprise",
+    "version":"5.6.7.6"
+  },
+  {
+    "id":194,
+    "dateGA":"2016-04-07T03:00:00.000Z",
+    "description":"Customer 194",
+    "domain":"www.customer194.com",
+    "host":"customer194.customers.com",
+    "name":"customer194",
+    "type":"Lite",
+    "version":"4.3.4.1"
+  },
+  {
+    "id":195,
+    "dateGA":"2016-11-28T03:00:00.000Z",
+    "description":"Customer 195",
+    "domain":"www.customer195.com",
+    "host":"customer195.customers.com",
+    "name":"customer195",
+    "type":"Lite",
+    "version":"4.5.18.1"
+  },
+  {
+    "id":196,
+    "dateGA":"2016-02-17T03:00:00.000Z",
+    "description":"Customer 196",
+    "domain":"www.customer196.com",
+    "host":"customer196.customers.com",
+    "name":"customer196",
+    "type":"Lite",
+    "version":"4.7.7.3"
+  },
+  {
+    "id":197,
+    "dateGA":"2016-03-15T03:00:00.000Z",
+    "description":"Customer 197",
+    "domain":"www.customer197.com",
+    "host":"customer197.customers.com",
+    "name":"customer197",
+    "type":"Enterprise",
+    "version":"5.5.18.5"
+  },
+  {
+    "id":198,
+    "dateGA":"2016-08-10T03:00:00.000Z",
+    "description":"Customer 198",
+    "domain":"www.customer198.com",
+    "host":"customer198.customers.com",
+    "name":"customer198",
+    "type":"Lite",
+    "version":"4.4.7.4"
+  },
+  {
+    "id":199,
+    "dateGA":"2016-03-14T03:00:00.000Z",
+    "description":"Customer 199",
+    "domain":"www.customer199.com",
+    "host":"customer199.customers.com",
+    "name":"customer199",
+    "type":"Enterprise",
+    "version":"5.4.18.3"
+  },
+  {
+    "id":200,
+    "dateGA":"2016-09-09T03:00:00.000Z",
+    "description":"Customer 200",
+    "domain":"www.customer200.com",
+    "host":"customer200.customers.com",
+    "name":"customer200",
+    "type":"Lite",
+    "version":"5.1.17.3"
+  },
+  {
+    "id":201,
+    "dateGA":"2016-02-05T03:00:00.000Z",
+    "description":"Customer 201",
+    "domain":"www.customer201.com",
+    "host":"customer201.customers.com",
+    "name":"customer201",
+    "type":"Enterprise",
+    "version":"5.2.5.7"
+  },
+  {
+    "id":202,
+    "dateGA":"2016-07-24T03:00:00.000Z",
+    "description":"Customer 202",
+    "domain":"www.customer202.com",
+    "host":"customer202.customers.com",
+    "name":"customer202",
+    "type":"Lite",
+    "version":"5.6.8.4"
+  },
+  {
+    "id":203,
+    "dateGA":"2016-08-01T03:00:00.000Z",
+    "description":"Customer 203",
+    "domain":"www.customer203.com",
+    "host":"customer203.customers.com",
+    "name":"customer203",
+    "type":"Enterprise",
+    "version":"4.8.15.3"
+  },
+  {
+    "id":204,
+    "dateGA":"2016-04-07T03:00:00.000Z",
+    "description":"Customer 204",
+    "domain":"www.customer204.com",
+    "host":"customer204.customers.com",
+    "name":"customer204",
+    "type":"Lite",
+    "version":"5.9.11.6"
+  },
+  {
+    "id":205,
+    "dateGA":"2016-11-02T03:00:00.000Z",
+    "description":"Customer 205",
+    "domain":"www.customer205.com",
+    "host":"customer205.customers.com",
+    "name":"customer205",
+    "type":"Lite",
+    "version":"5.9.18.6"
+  },
+  {
+    "id":206,
+    "dateGA":"2016-07-22T03:00:00.000Z",
+    "description":"Customer 206",
+    "domain":"www.customer206.com",
+    "host":"customer206.customers.com",
+    "name":"customer206",
+    "type":"Lite",
+    "version":"5.7.14.5"
+  },
+  {
+    "id":207,
+    "dateGA":"2016-02-05T03:00:00.000Z",
+    "description":"Customer 207",
+    "domain":"www.customer207.com",
+    "host":"customer207.customers.com",
+    "name":"customer207",
+    "type":"Enterprise",
+    "version":"5.6.19.1"
+  },
+  {
+    "id":208,
+    "dateGA":"2016-12-01T03:00:00.000Z",
+    "description":"Customer 208",
+    "domain":"www.customer208.com",
+    "host":"customer208.customers.com",
+    "name":"customer208",
+    "type":"Lite",
+    "version":"4.2.4.4"
+  },
+  {
+    "id":209,
+    "dateGA":"2016-09-20T03:00:00.000Z",
+    "description":"Customer 209",
+    "domain":"www.customer209.com",
+    "host":"customer209.customers.com",
+    "name":"customer209",
+    "type":"Enterprise",
+    "version":"5.7.14.3"
+  },
+  {
+    "id":210,
+    "dateGA":"2016-01-13T03:00:00.000Z",
+    "description":"Customer 210",
+    "domain":"www.customer210.com",
+    "host":"customer210.customers.com",
+    "name":"customer210",
+    "type":"Lite",
+    "version":"5.6.12.1"
+  },
+  {
+    "id":211,
+    "dateGA":"2016-10-06T03:00:00.000Z",
+    "description":"Customer 211",
+    "domain":"www.customer211.com",
+    "host":"customer211.customers.com",
+    "name":"customer211",
+    "type":"Enterprise",
+    "version":"5.5.18.1"
+  },
+  {
+    "id":212,
+    "dateGA":"2016-01-18T03:00:00.000Z",
+    "description":"Customer 212",
+    "domain":"www.customer212.com",
+    "host":"customer212.customers.com",
+    "name":"customer212",
+    "type":"Lite",
+    "version":"5.5.2.3"
+  },
+  {
+    "id":213,
+    "dateGA":"2016-11-27T03:00:00.000Z",
+    "description":"Customer 213",
+    "domain":"www.customer213.com",
+    "host":"customer213.customers.com",
+    "name":"customer213",
+    "type":"Enterprise",
+    "version":"5.9.1.7"
+  },
+  {
+    "id":214,
+    "dateGA":"2016-06-03T03:00:00.000Z",
+    "description":"Customer 214",
+    "domain":"www.customer214.com",
+    "host":"customer214.customers.com",
+    "name":"customer214",
+    "type":"Lite",
+    "version":"5.9.10.1"
+  },
+  {
+    "id":215,
+    "dateGA":"2016-12-27T03:00:00.000Z",
+    "description":"Customer 215",
+    "domain":"www.customer215.com",
+    "host":"customer215.customers.com",
+    "name":"customer215",
+    "type":"Lite",
+    "version":"5.2.19.5"
+  },
+  {
+    "id":216,
+    "dateGA":"2016-07-24T03:00:00.000Z",
+    "description":"Customer 216",
+    "domain":"www.customer216.com",
+    "host":"customer216.customers.com",
+    "name":"customer216",
+    "type":"Lite",
+    "version":"5.7.18.3"
+  },
+  {
+    "id":217,
+    "dateGA":"2016-12-13T03:00:00.000Z",
+    "description":"Customer 217",
+    "domain":"www.customer217.com",
+    "host":"customer217.customers.com",
+    "name":"customer217",
+    "type":"Enterprise",
+    "version":"5.9.4.5"
+  },
+  {
+    "id":218,
+    "dateGA":"2016-04-10T03:00:00.000Z",
+    "description":"Customer 218",
+    "domain":"www.customer218.com",
+    "host":"customer218.customers.com",
+    "name":"customer218",
+    "type":"Lite",
+    "version":"5.3.15.6"
+  },
+  {
+    "id":219,
+    "dateGA":"2016-06-02T03:00:00.000Z",
+    "description":"Customer 219",
+    "domain":"www.customer219.com",
+    "host":"customer219.customers.com",
+    "name":"customer219",
+    "type":"Enterprise",
+    "version":"4.9.15.6"
+  },
+  {
+    "id":220,
+    "dateGA":"2016-12-01T03:00:00.000Z",
+    "description":"Customer 220",
+    "domain":"www.customer220.com",
+    "host":"customer220.customers.com",
+    "name":"customer220",
+    "type":"Lite",
+    "version":"5.2.18.1"
+  },
+  {
+    "id":221,
+    "dateGA":"2016-03-25T03:00:00.000Z",
+    "description":"Customer 221",
+    "domain":"www.customer221.com",
+    "host":"customer221.customers.com",
+    "name":"customer221",
+    "type":"Enterprise",
+    "version":"4.5.12.7"
+  },
+  {
+    "id":222,
+    "dateGA":"2016-05-04T03:00:00.000Z",
+    "description":"Customer 222",
+    "domain":"www.customer222.com",
+    "host":"customer222.customers.com",
+    "name":"customer222",
+    "type":"Lite",
+    "version":"5.4.8.1"
+  },
+  {
+    "id":223,
+    "dateGA":"2016-02-02T03:00:00.000Z",
+    "description":"Customer 223",
+    "domain":"www.customer223.com",
+    "host":"customer223.customers.com",
+    "name":"customer223",
+    "type":"Enterprise",
+    "version":"4.6.16.4"
+  },
+  {
+    "id":224,
+    "dateGA":"2016-12-13T03:00:00.000Z",
+    "description":"Customer 224",
+    "domain":"www.customer224.com",
+    "host":"customer224.customers.com",
+    "name":"customer224",
+    "type":"Lite",
+    "version":"4.8.8.4"
+  },
+  {
+    "id":225,
+    "dateGA":"2016-12-11T03:00:00.000Z",
+    "description":"Customer 225",
+    "domain":"www.customer225.com",
+    "host":"customer225.customers.com",
+    "name":"customer225",
+    "type":"Lite",
+    "version":"5.7.5.5"
+  },
+  {
+    "id":226,
+    "dateGA":"2016-03-06T03:00:00.000Z",
+    "description":"Customer 226",
+    "domain":"www.customer226.com",
+    "host":"customer226.customers.com",
+    "name":"customer226",
+    "type":"Lite",
+    "version":"5.9.6.2"
+  },
+  {
+    "id":227,
+    "dateGA":"2016-04-05T03:00:00.000Z",
+    "description":"Customer 227",
+    "domain":"www.customer227.com",
+    "host":"customer227.customers.com",
+    "name":"customer227",
+    "type":"Enterprise",
+    "version":"5.8.2.5"
+  },
+  {
+    "id":228,
+    "dateGA":"2016-07-23T03:00:00.000Z",
+    "description":"Customer 228",
+    "domain":"www.customer228.com",
+    "host":"customer228.customers.com",
+    "name":"customer228",
+    "type":"Lite",
+    "version":"4.2.7.5"
+  },
+  {
+    "id":229,
+    "dateGA":"2016-02-12T03:00:00.000Z",
+    "description":"Customer 229",
+    "domain":"www.customer229.com",
+    "host":"customer229.customers.com",
+    "name":"customer229",
+    "type":"Enterprise",
+    "version":"5.8.4.5"
+  },
+  {
+    "id":230,
+    "dateGA":"2016-03-12T03:00:00.000Z",
+    "description":"Customer 230",
+    "domain":"www.customer230.com",
+    "host":"customer230.customers.com",
+    "name":"customer230",
+    "type":"Lite",
+    "version":"5.9.2.6"
+  },
+  {
+    "id":231,
+    "dateGA":"2016-02-19T03:00:00.000Z",
+    "description":"Customer 231",
+    "domain":"www.customer231.com",
+    "host":"customer231.customers.com",
+    "name":"customer231",
+    "type":"Enterprise",
+    "version":"5.3.4.5"
+  },
+  {
+    "id":232,
+    "dateGA":"2016-06-21T03:00:00.000Z",
+    "description":"Customer 232",
+    "domain":"www.customer232.com",
+    "host":"customer232.customers.com",
+    "name":"customer232",
+    "type":"Lite",
+    "version":"5.4.16.2"
+  },
+  {
+    "id":233,
+    "dateGA":"2016-05-26T03:00:00.000Z",
+    "description":"Customer 233",
+    "domain":"www.customer233.com",
+    "host":"customer233.customers.com",
+    "name":"customer233",
+    "type":"Enterprise",
+    "version":"5.1.1.1"
+  },
+  {
+    "id":234,
+    "dateGA":"2016-11-05T03:00:00.000Z",
+    "description":"Customer 234",
+    "domain":"www.customer234.com",
+    "host":"customer234.customers.com",
+    "name":"customer234",
+    "type":"Lite",
+    "version":"5.8.3.3"
+  },
+  {
+    "id":235,
+    "dateGA":"2016-01-17T03:00:00.000Z",
+    "description":"Customer 235",
+    "domain":"www.customer235.com",
+    "host":"customer235.customers.com",
+    "name":"customer235",
+    "type":"Lite",
+    "version":"5.7.4.2"
+  },
+  {
+    "id":236,
+    "dateGA":"2016-01-11T03:00:00.000Z",
+    "description":"Customer 236",
+    "domain":"www.customer236.com",
+    "host":"customer236.customers.com",
+    "name":"customer236",
+    "type":"Lite",
+    "version":"4.4.17.3"
+  },
+  {
+    "id":237,
+    "dateGA":"2016-05-03T03:00:00.000Z",
+    "description":"Customer 237",
+    "domain":"www.customer237.com",
+    "host":"customer237.customers.com",
+    "name":"customer237",
+    "type":"Enterprise",
+    "version":"4.6.4.1"
+  },
+  {
+    "id":238,
+    "dateGA":"2016-09-01T03:00:00.000Z",
+    "description":"Customer 238",
+    "domain":"www.customer238.com",
+    "host":"customer238.customers.com",
+    "name":"customer238",
+    "type":"Lite",
+    "version":"4.4.3.1"
+  },
+  {
+    "id":239,
+    "dateGA":"2016-09-25T03:00:00.000Z",
+    "description":"Customer 239",
+    "domain":"www.customer239.com",
+    "host":"customer239.customers.com",
+    "name":"customer239",
+    "type":"Enterprise",
+    "version":"5.3.17.1"
+  },
+  {
+    "id":240,
+    "dateGA":"2016-09-26T03:00:00.000Z",
+    "description":"Customer 240",
+    "domain":"www.customer240.com",
+    "host":"customer240.customers.com",
+    "name":"customer240",
+    "type":"Lite",
+    "version":"5.8.9.3"
+  },
+  {
+    "id":241,
+    "dateGA":"2016-12-22T03:00:00.000Z",
+    "description":"Customer 241",
+    "domain":"www.customer241.com",
+    "host":"customer241.customers.com",
+    "name":"customer241",
+    "type":"Enterprise",
+    "version":"5.9.10.3"
+  },
+  {
+    "id":242,
+    "dateGA":"2016-07-06T03:00:00.000Z",
+    "description":"Customer 242",
+    "domain":"www.customer242.com",
+    "host":"customer242.customers.com",
+    "name":"customer242",
+    "type":"Lite",
+    "version":"4.4.7.5"
+  },
+  {
+    "id":243,
+    "dateGA":"2016-03-24T03:00:00.000Z",
+    "description":"Customer 243",
+    "domain":"www.customer243.com",
+    "host":"customer243.customers.com",
+    "name":"customer243",
+    "type":"Enterprise",
+    "version":"5.9.11.7"
+  },
+  {
+    "id":244,
+    "dateGA":"2016-04-09T03:00:00.000Z",
+    "description":"Customer 244",
+    "domain":"www.customer244.com",
+    "host":"customer244.customers.com",
+    "name":"customer244",
+    "type":"Lite",
+    "version":"5.1.17.4"
+  },
+  {
+    "id":245,
+    "dateGA":"2016-01-12T03:00:00.000Z",
+    "description":"Customer 245",
+    "domain":"www.customer245.com",
+    "host":"customer245.customers.com",
+    "name":"customer245",
+    "type":"Lite",
+    "version":"5.3.18.1"
+  },
+  {
+    "id":246,
+    "dateGA":"2016-02-03T03:00:00.000Z",
+    "description":"Customer 246",
+    "domain":"www.customer246.com",
+    "host":"customer246.customers.com",
+    "name":"customer246",
+    "type":"Lite",
+    "version":"5.4.15.2"
+  },
+  {
+    "id":247,
+    "dateGA":"2016-02-05T03:00:00.000Z",
+    "description":"Customer 247",
+    "domain":"www.customer247.com",
+    "host":"customer247.customers.com",
+    "name":"customer247",
+    "type":"Enterprise",
+    "version":"4.6.6.5"
+  },
+  {
+    "id":248,
+    "dateGA":"2016-09-27T03:00:00.000Z",
+    "description":"Customer 248",
+    "domain":"www.customer248.com",
+    "host":"customer248.customers.com",
+    "name":"customer248",
+    "type":"Lite",
+    "version":"4.4.3.2"
+  },
+  {
+    "id":249,
+    "dateGA":"2016-04-16T03:00:00.000Z",
+    "description":"Customer 249",
+    "domain":"www.customer249.com",
+    "host":"customer249.customers.com",
+    "name":"customer249",
+    "type":"Enterprise",
+    "version":"5.1.11.2"
+  },
+  {
+    "id":250,
+    "dateGA":"2016-11-14T03:00:00.000Z",
+    "description":"Customer 250",
+    "domain":"www.customer250.com",
+    "host":"customer250.customers.com",
+    "name":"customer250",
+    "type":"Lite",
+    "version":"5.6.8.1"
+  },
+  {
+    "id":251,
+    "dateGA":"2016-11-01T03:00:00.000Z",
+    "description":"Customer 251",
+    "domain":"www.customer251.com",
+    "host":"customer251.customers.com",
+    "name":"customer251",
+    "type":"Enterprise",
+    "version":"5.6.11.1"
+  },
+  {
+    "id":252,
+    "dateGA":"2016-12-07T03:00:00.000Z",
+    "description":"Customer 252",
+    "domain":"www.customer252.com",
+    "host":"customer252.customers.com",
+    "name":"customer252",
+    "type":"Lite",
+    "version":"5.5.12.1"
+  },
+  {
+    "id":253,
+    "dateGA":"2016-06-23T03:00:00.000Z",
+    "description":"Customer 253",
+    "domain":"www.customer253.com",
+    "host":"customer253.customers.com",
+    "name":"customer253",
+    "type":"Enterprise",
+    "version":"5.9.19.2"
+  },
+  {
+    "id":254,
+    "dateGA":"2016-06-24T03:00:00.000Z",
+    "description":"Customer 254",
+    "domain":"www.customer254.com",
+    "host":"customer254.customers.com",
+    "name":"customer254",
+    "type":"Lite",
+    "version":"5.4.5.1"
+  },
+  {
+    "id":255,
+    "dateGA":"2016-08-12T03:00:00.000Z",
+    "description":"Customer 255",
+    "domain":"www.customer255.com",
+    "host":"customer255.customers.com",
+    "name":"customer255",
+    "type":"Lite",
+    "version":"5.2.9.2"
+  },
+  {
+    "id":256,
+    "dateGA":"2016-04-07T03:00:00.000Z",
+    "description":"Customer 256",
+    "domain":"www.customer256.com",
+    "host":"customer256.customers.com",
+    "name":"customer256",
+    "type":"Lite",
+    "version":"4.5.10.6"
+  },
+  {
+    "id":257,
+    "dateGA":"2016-08-06T03:00:00.000Z",
+    "description":"Customer 257",
+    "domain":"www.customer257.com",
+    "host":"customer257.customers.com",
+    "name":"customer257",
+    "type":"Enterprise",
+    "version":"5.3.2.2"
+  },
+  {
+    "id":258,
+    "dateGA":"2016-04-02T03:00:00.000Z",
+    "description":"Customer 258",
+    "domain":"www.customer258.com",
+    "host":"customer258.customers.com",
+    "name":"customer258",
+    "type":"Lite",
+    "version":"5.8.1.6"
+  },
+  {
+    "id":259,
+    "dateGA":"2016-11-14T03:00:00.000Z",
+    "description":"Customer 259",
+    "domain":"www.customer259.com",
+    "host":"customer259.customers.com",
+    "name":"customer259",
+    "type":"Enterprise",
+    "version":"5.2.8.5"
+  },
+  {
+    "id":260,
+    "dateGA":"2016-11-27T03:00:00.000Z",
+    "description":"Customer 260",
+    "domain":"www.customer260.com",
+    "host":"customer260.customers.com",
+    "name":"customer260",
+    "type":"Lite",
+    "version":"5.1.5.6"
+  },
+  {
+    "id":261,
+    "dateGA":"2016-08-21T03:00:00.000Z",
+    "description":"Customer 261",
+    "domain":"www.customer261.com",
+    "host":"customer261.customers.com",
+    "name":"customer261",
+    "type":"Enterprise",
+    "version":"5.2.11.7"
+  },
+  {
+    "id":262,
+    "dateGA":"2016-09-17T03:00:00.000Z",
+    "description":"Customer 262",
+    "domain":"www.customer262.com",
+    "host":"customer262.customers.com",
+    "name":"customer262",
+    "type":"Lite",
+    "version":"5.8.13.5"
+  },
+  {
+    "id":263,
+    "dateGA":"2016-07-09T03:00:00.000Z",
+    "description":"Customer 263",
+    "domain":"www.customer263.com",
+    "host":"customer263.customers.com",
+    "name":"customer263",
+    "type":"Enterprise",
+    "version":"5.7.1.4"
+  },
+  {
+    "id":264,
+    "dateGA":"2016-04-17T03:00:00.000Z",
+    "description":"Customer 264",
+    "domain":"www.customer264.com",
+    "host":"customer264.customers.com",
+    "name":"customer264",
+    "type":"Lite",
+    "version":"5.5.17.1"
+  },
+  {
+    "id":265,
+    "dateGA":"2016-10-19T03:00:00.000Z",
+    "description":"Customer 265",
+    "domain":"www.customer265.com",
+    "host":"customer265.customers.com",
+    "name":"customer265",
+    "type":"Lite",
+    "version":"5.9.1.1"
+  },
+  {
+    "id":266,
+    "dateGA":"2016-02-08T03:00:00.000Z",
+    "description":"Customer 266",
+    "domain":"www.customer266.com",
+    "host":"customer266.customers.com",
+    "name":"customer266",
+    "type":"Lite",
+    "version":"4.1.16.7"
+  },
+  {
+    "id":267,
+    "dateGA":"2016-11-23T03:00:00.000Z",
+    "description":"Customer 267",
+    "domain":"www.customer267.com",
+    "host":"customer267.customers.com",
+    "name":"customer267",
+    "type":"Enterprise",
+    "version":"5.1.10.6"
+  },
+  {
+    "id":268,
+    "dateGA":"2016-06-04T03:00:00.000Z",
+    "description":"Customer 268",
+    "domain":"www.customer268.com",
+    "host":"customer268.customers.com",
+    "name":"customer268",
+    "type":"Lite",
+    "version":"5.9.5.5"
+  },
+  {
+    "id":269,
+    "dateGA":"2016-11-26T03:00:00.000Z",
+    "description":"Customer 269",
+    "domain":"www.customer269.com",
+    "host":"customer269.customers.com",
+    "name":"customer269",
+    "type":"Enterprise",
+    "version":"4.5.9.1"
+  },
+  {
+    "id":270,
+    "dateGA":"2016-05-20T03:00:00.000Z",
+    "description":"Customer 270",
+    "domain":"www.customer270.com",
+    "host":"customer270.customers.com",
+    "name":"customer270",
+    "type":"Lite",
+    "version":"5.6.10.3"
+  },
+  {
+    "id":271,
+    "dateGA":"2016-04-17T03:00:00.000Z",
+    "description":"Customer 271",
+    "domain":"www.customer271.com",
+    "host":"customer271.customers.com",
+    "name":"customer271",
+    "type":"Enterprise",
+    "version":"5.2.15.7"
+  },
+  {
+    "id":272,
+    "dateGA":"2016-03-21T03:00:00.000Z",
+    "description":"Customer 272",
+    "domain":"www.customer272.com",
+    "host":"customer272.customers.com",
+    "name":"customer272",
+    "type":"Lite",
+    "version":"5.9.6.3"
+  },
+  {
+    "id":273,
+    "dateGA":"2016-06-23T03:00:00.000Z",
+    "description":"Customer 273",
+    "domain":"www.customer273.com",
+    "host":"customer273.customers.com",
+    "name":"customer273",
+    "type":"Enterprise",
+    "version":"4.5.16.6"
+  },
+  {
+    "id":274,
+    "dateGA":"2016-04-23T03:00:00.000Z",
+    "description":"Customer 274",
+    "domain":"www.customer274.com",
+    "host":"customer274.customers.com",
+    "name":"customer274",
+    "type":"Lite",
+    "version":"4.2.12.6"
+  },
+  {
+    "id":275,
+    "dateGA":"2016-04-12T03:00:00.000Z",
+    "description":"Customer 275",
+    "domain":"www.customer275.com",
+    "host":"customer275.customers.com",
+    "name":"customer275",
+    "type":"Lite",
+    "version":"5.8.8.2"
+  },
+  {
+    "id":276,
+    "dateGA":"2016-11-10T03:00:00.000Z",
+    "description":"Customer 276",
+    "domain":"www.customer276.com",
+    "host":"customer276.customers.com",
+    "name":"customer276",
+    "type":"Lite",
+    "version":"5.8.15.2"
+  },
+  {
+    "id":277,
+    "dateGA":"2016-04-26T03:00:00.000Z",
+    "description":"Customer 277",
+    "domain":"www.customer277.com",
+    "host":"customer277.customers.com",
+    "name":"customer277",
+    "type":"Enterprise",
+    "version":"5.1.17.3"
+  },
+  {
+    "id":278,
+    "dateGA":"2016-02-21T03:00:00.000Z",
+    "description":"Customer 278",
+    "domain":"www.customer278.com",
+    "host":"customer278.customers.com",
+    "name":"customer278",
+    "type":"Lite",
+    "version":"5.5.18.7"
+  },
+  {
+    "id":279,
+    "dateGA":"2016-04-20T03:00:00.000Z",
+    "description":"Customer 279",
+    "domain":"www.customer279.com",
+    "host":"customer279.customers.com",
+    "name":"customer279",
+    "type":"Enterprise",
+    "version":"5.7.14.4"
+  },
+  {
+    "id":280,
+    "dateGA":"2016-10-26T03:00:00.000Z",
+    "description":"Customer 280",
+    "domain":"www.customer280.com",
+    "host":"customer280.customers.com",
+    "name":"customer280",
+    "type":"Lite",
+    "version":"5.5.7.2"
+  },
+  {
+    "id":281,
+    "dateGA":"2016-04-28T03:00:00.000Z",
+    "description":"Customer 281",
+    "domain":"www.customer281.com",
+    "host":"customer281.customers.com",
+    "name":"customer281",
+    "type":"Enterprise",
+    "version":"4.4.14.2"
+  },
+  {
+    "id":282,
+    "dateGA":"2016-07-18T03:00:00.000Z",
+    "description":"Customer 282",
+    "domain":"www.customer282.com",
+    "host":"customer282.customers.com",
+    "name":"customer282",
+    "type":"Lite",
+    "version":"5.9.1.6"
+  },
+  {
+    "id":283,
+    "dateGA":"2016-09-28T03:00:00.000Z",
+    "description":"Customer 283",
+    "domain":"www.customer283.com",
+    "host":"customer283.customers.com",
+    "name":"customer283",
+    "type":"Enterprise",
+    "version":"4.3.16.3"
+  },
+  {
+    "id":284,
+    "dateGA":"2016-06-23T03:00:00.000Z",
+    "description":"Customer 284",
+    "domain":"www.customer284.com",
+    "host":"customer284.customers.com",
+    "name":"customer284",
+    "type":"Lite",
+    "version":"5.6.12.5"
+  },
+  {
+    "id":285,
+    "dateGA":"2016-06-22T03:00:00.000Z",
+    "description":"Customer 285",
+    "domain":"www.customer285.com",
+    "host":"customer285.customers.com",
+    "name":"customer285",
+    "type":"Lite",
+    "version":"5.8.10.5"
+  },
+  {
+    "id":286,
+    "dateGA":"2016-11-20T03:00:00.000Z",
+    "description":"Customer 286",
+    "domain":"www.customer286.com",
+    "host":"customer286.customers.com",
+    "name":"customer286",
+    "type":"Lite",
+    "version":"4.9.7.3"
+  },
+  {
+    "id":287,
+    "dateGA":"2016-06-17T03:00:00.000Z",
+    "description":"Customer 287",
+    "domain":"www.customer287.com",
+    "host":"customer287.customers.com",
+    "name":"customer287",
+    "type":"Enterprise",
+    "version":"4.3.13.5"
+  },
+  {
+    "id":288,
+    "dateGA":"2016-08-11T03:00:00.000Z",
+    "description":"Customer 288",
+    "domain":"www.customer288.com",
+    "host":"customer288.customers.com",
+    "name":"customer288",
+    "type":"Lite",
+    "version":"5.6.8.4"
+  },
+  {
+    "id":289,
+    "dateGA":"2016-11-14T03:00:00.000Z",
+    "description":"Customer 289",
+    "domain":"www.customer289.com",
+    "host":"customer289.customers.com",
+    "name":"customer289",
+    "type":"Enterprise",
+    "version":"5.6.11.2"
+  },
+  {
+    "id":290,
+    "dateGA":"2016-04-05T03:00:00.000Z",
+    "description":"Customer 290",
+    "domain":"www.customer290.com",
+    "host":"customer290.customers.com",
+    "name":"customer290",
+    "type":"Lite",
+    "version":"5.3.9.1"
+  },
+  {
+    "id":291,
+    "dateGA":"2016-03-28T03:00:00.000Z",
+    "description":"Customer 291",
+    "domain":"www.customer291.com",
+    "host":"customer291.customers.com",
+    "name":"customer291",
+    "type":"Enterprise",
+    "version":"4.8.1.5"
+  },
+  {
+    "id":292,
+    "dateGA":"2016-11-23T03:00:00.000Z",
+    "description":"Customer 292",
+    "domain":"www.customer292.com",
+    "host":"customer292.customers.com",
+    "name":"customer292",
+    "type":"Lite",
+    "version":"5.3.13.7"
+  },
+  {
+    "id":293,
+    "dateGA":"2016-11-24T03:00:00.000Z",
+    "description":"Customer 293",
+    "domain":"www.customer293.com",
+    "host":"customer293.customers.com",
+    "name":"customer293",
+    "type":"Enterprise",
+    "version":"5.6.1.7"
+  },
+  {
+    "id":294,
+    "dateGA":"2016-03-04T03:00:00.000Z",
+    "description":"Customer 294",
+    "domain":"www.customer294.com",
+    "host":"customer294.customers.com",
+    "name":"customer294",
+    "type":"Lite",
+    "version":"5.4.9.1"
+  },
+  {
+    "id":295,
+    "dateGA":"2016-05-03T03:00:00.000Z",
+    "description":"Customer 295",
+    "domain":"www.customer295.com",
+    "host":"customer295.customers.com",
+    "name":"customer295",
+    "type":"Lite",
+    "version":"5.4.18.6"
+  },
+  {
+    "id":296,
+    "dateGA":"2016-12-12T03:00:00.000Z",
+    "description":"Customer 296",
+    "domain":"www.customer296.com",
+    "host":"customer296.customers.com",
+    "name":"customer296",
+    "type":"Lite",
+    "version":"4.8.16.2"
+  },
+  {
+    "id":297,
+    "dateGA":"2016-01-19T03:00:00.000Z",
+    "description":"Customer 297",
+    "domain":"www.customer297.com",
+    "host":"customer297.customers.com",
+    "name":"customer297",
+    "type":"Enterprise",
+    "version":"5.3.14.1"
+  },
+  {
+    "id":298,
+    "dateGA":"2016-02-21T03:00:00.000Z",
+    "description":"Customer 298",
+    "domain":"www.customer298.com",
+    "host":"customer298.customers.com",
+    "name":"customer298",
+    "type":"Lite",
+    "version":"5.1.10.2"
+  },
+  {
+    "id":299,
+    "dateGA":"2016-04-19T03:00:00.000Z",
+    "description":"Customer 299",
+    "domain":"www.customer299.com",
+    "host":"customer299.customers.com",
+    "name":"customer299",
+    "type":"Enterprise",
+    "version":"5.9.6.4"
+  },
+  {
+    "id":300,
+    "dateGA":"2016-01-12T03:00:00.000Z",
+    "description":"Customer 300",
+    "domain":"www.customer300.com",
+    "host":"customer300.customers.com",
+    "name":"customer300",
+    "type":"Lite",
+    "version":"5.2.4.5"
+  },
+  {
+    "id":301,
+    "dateGA":"2016-03-11T03:00:00.000Z",
+    "description":"Customer 301",
+    "domain":"www.customer301.com",
+    "host":"customer301.customers.com",
+    "name":"customer301",
+    "type":"Enterprise",
+    "version":"5.7.1.1"
+  },
+  {
+    "id":302,
+    "dateGA":"2016-08-20T03:00:00.000Z",
+    "description":"Customer 302",
+    "domain":"www.customer302.com",
+    "host":"customer302.customers.com",
+    "name":"customer302",
+    "type":"Lite",
+    "version":"4.2.16.6"
+  },
+  {
+    "id":303,
+    "dateGA":"2016-12-10T03:00:00.000Z",
+    "description":"Customer 303",
+    "domain":"www.customer303.com",
+    "host":"customer303.customers.com",
+    "name":"customer303",
+    "type":"Enterprise",
+    "version":"5.8.3.7"
+  },
+  {
+    "id":304,
+    "dateGA":"2016-09-03T03:00:00.000Z",
+    "description":"Customer 304",
+    "domain":"www.customer304.com",
+    "host":"customer304.customers.com",
+    "name":"customer304",
+    "type":"Lite",
+    "version":"5.5.1.4"
+  },
+  {
+    "id":305,
+    "dateGA":"2016-07-09T03:00:00.000Z",
+    "description":"Customer 305",
+    "domain":"www.customer305.com",
+    "host":"customer305.customers.com",
+    "name":"customer305",
+    "type":"Lite",
+    "version":"5.1.1.4"
+  },
+  {
+    "id":306,
+    "dateGA":"2016-11-20T03:00:00.000Z",
+    "description":"Customer 306",
+    "domain":"www.customer306.com",
+    "host":"customer306.customers.com",
+    "name":"customer306",
+    "type":"Lite",
+    "version":"5.1.18.2"
+  },
+  {
+    "id":307,
+    "dateGA":"2016-04-28T03:00:00.000Z",
+    "description":"Customer 307",
+    "domain":"www.customer307.com",
+    "host":"customer307.customers.com",
+    "name":"customer307",
+    "type":"Enterprise",
+    "version":"5.5.6.2"
+  },
+  {
+    "id":308,
+    "dateGA":"2016-08-17T03:00:00.000Z",
+    "description":"Customer 308",
+    "domain":"www.customer308.com",
+    "host":"customer308.customers.com",
+    "name":"customer308",
+    "type":"Lite",
+    "version":"5.5.19.3"
+  },
+  {
+    "id":309,
+    "dateGA":"2016-09-14T03:00:00.000Z",
+    "description":"Customer 309",
+    "domain":"www.customer309.com",
+    "host":"customer309.customers.com",
+    "name":"customer309",
+    "type":"Enterprise",
+    "version":"4.8.8.3"
+  },
+  {
+    "id":310,
+    "dateGA":"2016-10-11T03:00:00.000Z",
+    "description":"Customer 310",
+    "domain":"www.customer310.com",
+    "host":"customer310.customers.com",
+    "name":"customer310",
+    "type":"Lite",
+    "version":"5.6.16.3"
+  },
+  {
+    "id":311,
+    "dateGA":"2016-05-10T03:00:00.000Z",
+    "description":"Customer 311",
+    "domain":"www.customer311.com",
+    "host":"customer311.customers.com",
+    "name":"customer311",
+    "type":"Enterprise",
+    "version":"5.8.12.2"
+  },
+  {
+    "id":312,
+    "dateGA":"2016-03-14T03:00:00.000Z",
+    "description":"Customer 312",
+    "domain":"www.customer312.com",
+    "host":"customer312.customers.com",
+    "name":"customer312",
+    "type":"Lite",
+    "version":"5.7.18.2"
+  },
+  {
+    "id":313,
+    "dateGA":"2016-12-15T03:00:00.000Z",
+    "description":"Customer 313",
+    "domain":"www.customer313.com",
+    "host":"customer313.customers.com",
+    "name":"customer313",
+    "type":"Enterprise",
+    "version":"5.4.19.5"
+  },
+  {
+    "id":314,
+    "dateGA":"2016-04-15T03:00:00.000Z",
+    "description":"Customer 314",
+    "domain":"www.customer314.com",
+    "host":"customer314.customers.com",
+    "name":"customer314",
+    "type":"Lite",
+    "version":"5.1.4.5"
+  },
+  {
+    "id":315,
+    "dateGA":"2016-09-19T03:00:00.000Z",
+    "description":"Customer 315",
+    "domain":"www.customer315.com",
+    "host":"customer315.customers.com",
+    "name":"customer315",
+    "type":"Lite",
+    "version":"5.3.10.7"
+  },
+  {
+    "id":316,
+    "dateGA":"2016-07-07T03:00:00.000Z",
+    "description":"Customer 316",
+    "domain":"www.customer316.com",
+    "host":"customer316.customers.com",
+    "name":"customer316",
+    "type":"Lite",
+    "version":"5.4.9.4"
+  },
+  {
+    "id":317,
+    "dateGA":"2016-01-18T03:00:00.000Z",
+    "description":"Customer 317",
+    "domain":"www.customer317.com",
+    "host":"customer317.customers.com",
+    "name":"customer317",
+    "type":"Enterprise",
+    "version":"5.7.1.6"
+  },
+  {
+    "id":318,
+    "dateGA":"2016-12-18T03:00:00.000Z",
+    "description":"Customer 318",
+    "domain":"www.customer318.com",
+    "host":"customer318.customers.com",
+    "name":"customer318",
+    "type":"Lite",
+    "version":"5.2.4.6"
+  },
+  {
+    "id":319,
+    "dateGA":"2016-03-09T03:00:00.000Z",
+    "description":"Customer 319",
+    "domain":"www.customer319.com",
+    "host":"customer319.customers.com",
+    "name":"customer319",
+    "type":"Enterprise",
+    "version":"4.2.10.6"
+  },
+  {
+    "id":320,
+    "dateGA":"2016-02-24T03:00:00.000Z",
+    "description":"Customer 320",
+    "domain":"www.customer320.com",
+    "host":"customer320.customers.com",
+    "name":"customer320",
+    "type":"Lite",
+    "version":"5.7.12.4"
+  },
+  {
+    "id":321,
+    "dateGA":"2016-05-18T03:00:00.000Z",
+    "description":"Customer 321",
+    "domain":"www.customer321.com",
+    "host":"customer321.customers.com",
+    "name":"customer321",
+    "type":"Enterprise",
+    "version":"5.8.14.3"
+  },
+  {
+    "id":322,
+    "dateGA":"2016-05-15T03:00:00.000Z",
+    "description":"Customer 322",
+    "domain":"www.customer322.com",
+    "host":"customer322.customers.com",
+    "name":"customer322",
+    "type":"Lite",
+    "version":"4.8.18.4"
+  },
+  {
+    "id":323,
+    "dateGA":"2016-10-19T03:00:00.000Z",
+    "description":"Customer 323",
+    "domain":"www.customer323.com",
+    "host":"customer323.customers.com",
+    "name":"customer323",
+    "type":"Enterprise",
+    "version":"5.4.15.4"
+  },
+  {
+    "id":324,
+    "dateGA":"2016-06-24T03:00:00.000Z",
+    "description":"Customer 324",
+    "domain":"www.customer324.com",
+    "host":"customer324.customers.com",
+    "name":"customer324",
+    "type":"Lite",
+    "version":"5.7.2.1"
+  },
+  {
+    "id":325,
+    "dateGA":"2016-09-26T03:00:00.000Z",
+    "description":"Customer 325",
+    "domain":"www.customer325.com",
+    "host":"customer325.customers.com",
+    "name":"customer325",
+    "type":"Lite",
+    "version":"5.8.19.5"
+  },
+  {
+    "id":326,
+    "dateGA":"2016-05-02T03:00:00.000Z",
+    "description":"Customer 326",
+    "domain":"www.customer326.com",
+    "host":"customer326.customers.com",
+    "name":"customer326",
+    "type":"Lite",
+    "version":"5.2.12.3"
+  },
+  {
+    "id":327,
+    "dateGA":"2016-10-14T03:00:00.000Z",
+    "description":"Customer 327",
+    "domain":"www.customer327.com",
+    "host":"customer327.customers.com",
+    "name":"customer327",
+    "type":"Enterprise",
+    "version":"5.4.18.2"
+  },
+  {
+    "id":328,
+    "dateGA":"2016-11-04T03:00:00.000Z",
+    "description":"Customer 328",
+    "domain":"www.customer328.com",
+    "host":"customer328.customers.com",
+    "name":"customer328",
+    "type":"Lite",
+    "version":"4.5.11.6"
+  },
+  {
+    "id":329,
+    "dateGA":"2016-08-16T03:00:00.000Z",
+    "description":"Customer 329",
+    "domain":"www.customer329.com",
+    "host":"customer329.customers.com",
+    "name":"customer329",
+    "type":"Enterprise",
+    "version":"4.7.18.1"
+  },
+  {
+    "id":330,
+    "dateGA":"2016-02-19T03:00:00.000Z",
+    "description":"Customer 330",
+    "domain":"www.customer330.com",
+    "host":"customer330.customers.com",
+    "name":"customer330",
+    "type":"Lite",
+    "version":"4.6.9.1"
+  },
+  {
+    "id":331,
+    "dateGA":"2016-08-14T03:00:00.000Z",
+    "description":"Customer 331",
+    "domain":"www.customer331.com",
+    "host":"customer331.customers.com",
+    "name":"customer331",
+    "type":"Enterprise",
+    "version":"5.2.12.2"
+  },
+  {
+    "id":332,
+    "dateGA":"2016-03-11T03:00:00.000Z",
+    "description":"Customer 332",
+    "domain":"www.customer332.com",
+    "host":"customer332.customers.com",
+    "name":"customer332",
+    "type":"Lite",
+    "version":"5.5.18.1"
+  },
+  {
+    "id":333,
+    "dateGA":"2016-01-20T03:00:00.000Z",
+    "description":"Customer 333",
+    "domain":"www.customer333.com",
+    "host":"customer333.customers.com",
+    "name":"customer333",
+    "type":"Enterprise",
+    "version":"5.3.15.5"
+  },
+  {
+    "id":334,
+    "dateGA":"2016-01-23T03:00:00.000Z",
+    "description":"Customer 334",
+    "domain":"www.customer334.com",
+    "host":"customer334.customers.com",
+    "name":"customer334",
+    "type":"Lite",
+    "version":"4.1.8.4"
+  },
+  {
+    "id":335,
+    "dateGA":"2016-04-22T03:00:00.000Z",
+    "description":"Customer 335",
+    "domain":"www.customer335.com",
+    "host":"customer335.customers.com",
+    "name":"customer335",
+    "type":"Lite",
+    "version":"4.2.10.4"
+  },
+  {
+    "id":336,
+    "dateGA":"2016-10-05T03:00:00.000Z",
+    "description":"Customer 336",
+    "domain":"www.customer336.com",
+    "host":"customer336.customers.com",
+    "name":"customer336",
+    "type":"Lite",
+    "version":"4.2.12.5"
+  },
+  {
+    "id":337,
+    "dateGA":"2016-05-17T03:00:00.000Z",
+    "description":"Customer 337",
+    "domain":"www.customer337.com",
+    "host":"customer337.customers.com",
+    "name":"customer337",
+    "type":"Enterprise",
+    "version":"5.4.15.2"
+  },
+  {
+    "id":338,
+    "dateGA":"2016-06-04T03:00:00.000Z",
+    "description":"Customer 338",
+    "domain":"www.customer338.com",
+    "host":"customer338.customers.com",
+    "name":"customer338",
+    "type":"Lite",
+    "version":"4.1.2.3"
+  },
+  {
+    "id":339,
+    "dateGA":"2016-10-06T03:00:00.000Z",
+    "description":"Customer 339",
+    "domain":"www.customer339.com",
+    "host":"customer339.customers.com",
+    "name":"customer339",
+    "type":"Enterprise",
+    "version":"5.4.17.3"
+  },
+  {
+    "id":340,
+    "dateGA":"2016-02-28T03:00:00.000Z",
+    "description":"Customer 340",
+    "domain":"www.customer340.com",
+    "host":"customer340.customers.com",
+    "name":"customer340",
+    "type":"Lite",
+    "version":"4.3.15.6"
+  },
+  {
+    "id":341,
+    "dateGA":"2016-01-13T03:00:00.000Z",
+    "description":"Customer 341",
+    "domain":"www.customer341.com",
+    "host":"customer341.customers.com",
+    "name":"customer341",
+    "type":"Enterprise",
+    "version":"5.5.19.1"
+  },
+  {
+    "id":342,
+    "dateGA":"2016-02-14T03:00:00.000Z",
+    "description":"Customer 342",
+    "domain":"www.customer342.com",
+    "host":"customer342.customers.com",
+    "name":"customer342",
+    "type":"Lite",
+    "version":"5.7.8.4"
+  },
+  {
+    "id":343,
+    "dateGA":"2016-02-14T03:00:00.000Z",
+    "description":"Customer 343",
+    "domain":"www.customer343.com",
+    "host":"customer343.customers.com",
+    "name":"customer343",
+    "type":"Enterprise",
+    "version":"5.2.19.1"
+  },
+  {
+    "id":344,
+    "dateGA":"2016-11-20T03:00:00.000Z",
+    "description":"Customer 344",
+    "domain":"www.customer344.com",
+    "host":"customer344.customers.com",
+    "name":"customer344",
+    "type":"Lite",
+    "version":"5.4.19.2"
+  },
+  {
+    "id":345,
+    "dateGA":"2016-01-27T03:00:00.000Z",
+    "description":"Customer 345",
+    "domain":"www.customer345.com",
+    "host":"customer345.customers.com",
+    "name":"customer345",
+    "type":"Lite",
+    "version":"5.5.12.2"
+  },
+  {
+    "id":346,
+    "dateGA":"2016-04-06T03:00:00.000Z",
+    "description":"Customer 346",
+    "domain":"www.customer346.com",
+    "host":"customer346.customers.com",
+    "name":"customer346",
+    "type":"Lite",
+    "version":"4.1.12.4"
+  },
+  {
+    "id":347,
+    "dateGA":"2016-09-05T03:00:00.000Z",
+    "description":"Customer 347",
+    "domain":"www.customer347.com",
+    "host":"customer347.customers.com",
+    "name":"customer347",
+    "type":"Enterprise",
+    "version":"5.2.1.2"
+  },
+  {
+    "id":348,
+    "dateGA":"2016-05-13T03:00:00.000Z",
+    "description":"Customer 348",
+    "domain":"www.customer348.com",
+    "host":"customer348.customers.com",
+    "name":"customer348",
+    "type":"Lite",
+    "version":"5.9.6.4"
+  },
+  {
+    "id":349,
+    "dateGA":"2016-07-21T03:00:00.000Z",
+    "description":"Customer 349",
+    "domain":"www.customer349.com",
+    "host":"customer349.customers.com",
+    "name":"customer349",
+    "type":"Enterprise",
+    "version":"5.8.7.5"
+  },
+  {
+    "id":350,
+    "dateGA":"2016-01-04T03:00:00.000Z",
+    "description":"Customer 350",
+    "domain":"www.customer350.com",
+    "host":"customer350.customers.com",
+    "name":"customer350",
+    "type":"Lite",
+    "version":"5.1.12.6"
+  },
+  {
+    "id":351,
+    "dateGA":"2016-06-02T03:00:00.000Z",
+    "description":"Customer 351",
+    "domain":"www.customer351.com",
+    "host":"customer351.customers.com",
+    "name":"customer351",
+    "type":"Enterprise",
+    "version":"5.9.11.7"
+  },
+  {
+    "id":352,
+    "dateGA":"2016-08-07T03:00:00.000Z",
+    "description":"Customer 352",
+    "domain":"www.customer352.com",
+    "host":"customer352.customers.com",
+    "name":"customer352",
+    "type":"Lite",
+    "version":"4.4.1.7"
+  },
+  {
+    "id":353,
+    "dateGA":"2016-02-18T03:00:00.000Z",
+    "description":"Customer 353",
+    "domain":"www.customer353.com",
+    "host":"customer353.customers.com",
+    "name":"customer353",
+    "type":"Enterprise",
+    "version":"4.7.17.1"
+  },
+  {
+    "id":354,
+    "dateGA":"2016-07-05T03:00:00.000Z",
+    "description":"Customer 354",
+    "domain":"www.customer354.com",
+    "host":"customer354.customers.com",
+    "name":"customer354",
+    "type":"Lite",
+    "version":"5.6.19.7"
+  },
+  {
+    "id":355,
+    "dateGA":"2016-05-26T03:00:00.000Z",
+    "description":"Customer 355",
+    "domain":"www.customer355.com",
+    "host":"customer355.customers.com",
+    "name":"customer355",
+    "type":"Lite",
+    "version":"4.9.14.6"
+  },
+  {
+    "id":356,
+    "dateGA":"2016-06-17T03:00:00.000Z",
+    "description":"Customer 356",
+    "domain":"www.customer356.com",
+    "host":"customer356.customers.com",
+    "name":"customer356",
+    "type":"Lite",
+    "version":"4.9.11.3"
+  },
+  {
+    "id":357,
+    "dateGA":"2016-05-08T03:00:00.000Z",
+    "description":"Customer 357",
+    "domain":"www.customer357.com",
+    "host":"customer357.customers.com",
+    "name":"customer357",
+    "type":"Enterprise",
+    "version":"4.9.14.6"
+  },
+  {
+    "id":358,
+    "dateGA":"2016-01-28T03:00:00.000Z",
+    "description":"Customer 358",
+    "domain":"www.customer358.com",
+    "host":"customer358.customers.com",
+    "name":"customer358",
+    "type":"Lite",
+    "version":"5.3.18.6"
+  },
+  {
+    "id":359,
+    "dateGA":"2016-01-22T03:00:00.000Z",
+    "description":"Customer 359",
+    "domain":"www.customer359.com",
+    "host":"customer359.customers.com",
+    "name":"customer359",
+    "type":"Enterprise",
+    "version":"5.7.14.6"
+  },
+  {
+    "id":360,
+    "dateGA":"2016-07-08T03:00:00.000Z",
+    "description":"Customer 360",
+    "domain":"www.customer360.com",
+    "host":"customer360.customers.com",
+    "name":"customer360",
+    "type":"Lite",
+    "version":"5.6.7.7"
+  },
+  {
+    "id":361,
+    "dateGA":"2016-08-09T03:00:00.000Z",
+    "description":"Customer 361",
+    "domain":"www.customer361.com",
+    "host":"customer361.customers.com",
+    "name":"customer361",
+    "type":"Enterprise",
+    "version":"4.4.18.1"
+  },
+  {
+    "id":362,
+    "dateGA":"2016-01-02T03:00:00.000Z",
+    "description":"Customer 362",
+    "domain":"www.customer362.com",
+    "host":"customer362.customers.com",
+    "name":"customer362",
+    "type":"Lite",
+    "version":"5.8.4.4"
+  },
+  {
+    "id":363,
+    "dateGA":"2016-03-23T03:00:00.000Z",
+    "description":"Customer 363",
+    "domain":"www.customer363.com",
+    "host":"customer363.customers.com",
+    "name":"customer363",
+    "type":"Enterprise",
+    "version":"5.6.4.7"
+  },
+  {
+    "id":364,
+    "dateGA":"2016-09-06T03:00:00.000Z",
+    "description":"Customer 364",
+    "domain":"www.customer364.com",
+    "host":"customer364.customers.com",
+    "name":"customer364",
+    "type":"Lite",
+    "version":"5.5.13.5"
+  },
+  {
+    "id":365,
+    "dateGA":"2016-03-07T03:00:00.000Z",
+    "description":"Customer 365",
+    "domain":"www.customer365.com",
+    "host":"customer365.customers.com",
+    "name":"customer365",
+    "type":"Lite",
+    "version":"5.8.12.1"
+  },
+  {
+    "id":366,
+    "dateGA":"2016-01-26T03:00:00.000Z",
+    "description":"Customer 366",
+    "domain":"www.customer366.com",
+    "host":"customer366.customers.com",
+    "name":"customer366",
+    "type":"Lite",
+    "version":"4.4.11.4"
+  },
+  {
+    "id":367,
+    "dateGA":"2016-05-13T03:00:00.000Z",
+    "description":"Customer 367",
+    "domain":"www.customer367.com",
+    "host":"customer367.customers.com",
+    "name":"customer367",
+    "type":"Enterprise",
+    "version":"5.5.7.7"
+  },
+  {
+    "id":368,
+    "dateGA":"2016-02-18T03:00:00.000Z",
+    "description":"Customer 368",
+    "domain":"www.customer368.com",
+    "host":"customer368.customers.com",
+    "name":"customer368",
+    "type":"Lite",
+    "version":"5.2.11.4"
+  },
+  {
+    "id":369,
+    "dateGA":"2016-09-15T03:00:00.000Z",
+    "description":"Customer 369",
+    "domain":"www.customer369.com",
+    "host":"customer369.customers.com",
+    "name":"customer369",
+    "type":"Enterprise",
+    "version":"5.4.11.1"
+  },
+  {
+    "id":370,
+    "dateGA":"2016-01-08T03:00:00.000Z",
+    "description":"Customer 370",
+    "domain":"www.customer370.com",
+    "host":"customer370.customers.com",
+    "name":"customer370",
+    "type":"Lite",
+    "version":"5.2.11.3"
+  },
+  {
+    "id":371,
+    "dateGA":"2016-11-26T03:00:00.000Z",
+    "description":"Customer 371",
+    "domain":"www.customer371.com",
+    "host":"customer371.customers.com",
+    "name":"customer371",
+    "type":"Enterprise",
+    "version":"4.2.7.5"
+  },
+  {
+    "id":372,
+    "dateGA":"2016-01-28T03:00:00.000Z",
+    "description":"Customer 372",
+    "domain":"www.customer372.com",
+    "host":"customer372.customers.com",
+    "name":"customer372",
+    "type":"Lite",
+    "version":"5.3.10.2"
+  },
+  {
+    "id":373,
+    "dateGA":"2016-03-22T03:00:00.000Z",
+    "description":"Customer 373",
+    "domain":"www.customer373.com",
+    "host":"customer373.customers.com",
+    "name":"customer373",
+    "type":"Enterprise",
+    "version":"4.5.3.7"
+  },
+  {
+    "id":374,
+    "dateGA":"2016-09-21T03:00:00.000Z",
+    "description":"Customer 374",
+    "domain":"www.customer374.com",
+    "host":"customer374.customers.com",
+    "name":"customer374",
+    "type":"Lite",
+    "version":"5.4.7.1"
+  },
+  {
+    "id":375,
+    "dateGA":"2016-01-18T03:00:00.000Z",
+    "description":"Customer 375",
+    "domain":"www.customer375.com",
+    "host":"customer375.customers.com",
+    "name":"customer375",
+    "type":"Lite",
+    "version":"5.3.5.6"
+  },
+  {
+    "id":376,
+    "dateGA":"2016-03-09T03:00:00.000Z",
+    "description":"Customer 376",
+    "domain":"www.customer376.com",
+    "host":"customer376.customers.com",
+    "name":"customer376",
+    "type":"Lite",
+    "version":"4.2.2.1"
+  },
+  {
+    "id":377,
+    "dateGA":"2016-06-21T03:00:00.000Z",
+    "description":"Customer 377",
+    "domain":"www.customer377.com",
+    "host":"customer377.customers.com",
+    "name":"customer377",
+    "type":"Enterprise",
+    "version":"5.2.19.1"
+  },
+  {
+    "id":378,
+    "dateGA":"2016-05-17T03:00:00.000Z",
+    "description":"Customer 378",
+    "domain":"www.customer378.com",
+    "host":"customer378.customers.com",
+    "name":"customer378",
+    "type":"Lite",
+    "version":"5.7.9.6"
+  },
+  {
+    "id":379,
+    "dateGA":"2016-10-09T03:00:00.000Z",
+    "description":"Customer 379",
+    "domain":"www.customer379.com",
+    "host":"customer379.customers.com",
+    "name":"customer379",
+    "type":"Enterprise",
+    "version":"4.1.5.5"
+  },
+  {
+    "id":380,
+    "dateGA":"2016-03-27T03:00:00.000Z",
+    "description":"Customer 380",
+    "domain":"www.customer380.com",
+    "host":"customer380.customers.com",
+    "name":"customer380",
+    "type":"Lite",
+    "version":"5.9.13.7"
+  },
+  {
+    "id":381,
+    "dateGA":"2016-01-13T03:00:00.000Z",
+    "description":"Customer 381",
+    "domain":"www.customer381.com",
+    "host":"customer381.customers.com",
+    "name":"customer381",
+    "type":"Enterprise",
+    "version":"4.3.18.5"
+  },
+  {
+    "id":382,
+    "dateGA":"2016-03-08T03:00:00.000Z",
+    "description":"Customer 382",
+    "domain":"www.customer382.com",
+    "host":"customer382.customers.com",
+    "name":"customer382",
+    "type":"Lite",
+    "version":"5.9.17.1"
+  },
+  {
+    "id":383,
+    "dateGA":"2016-08-09T03:00:00.000Z",
+    "description":"Customer 383",
+    "domain":"www.customer383.com",
+    "host":"customer383.customers.com",
+    "name":"customer383",
+    "type":"Enterprise",
+    "version":"4.6.15.2"
+  },
+  {
+    "id":384,
+    "dateGA":"2016-06-03T03:00:00.000Z",
+    "description":"Customer 384",
+    "domain":"www.customer384.com",
+    "host":"customer384.customers.com",
+    "name":"customer384",
+    "type":"Lite",
+    "version":"4.8.6.2"
+  },
+  {
+    "id":385,
+    "dateGA":"2016-09-20T03:00:00.000Z",
+    "description":"Customer 385",
+    "domain":"www.customer385.com",
+    "host":"customer385.customers.com",
+    "name":"customer385",
+    "type":"Lite",
+    "version":"5.6.15.7"
+  },
+  {
+    "id":386,
+    "dateGA":"2016-03-28T03:00:00.000Z",
+    "description":"Customer 386",
+    "domain":"www.customer386.com",
+    "host":"customer386.customers.com",
+    "name":"customer386",
+    "type":"Lite",
+    "version":"5.4.8.7"
+  },
+  {
+    "id":387,
+    "dateGA":"2016-01-20T03:00:00.000Z",
+    "description":"Customer 387",
+    "domain":"www.customer387.com",
+    "host":"customer387.customers.com",
+    "name":"customer387",
+    "type":"Enterprise",
+    "version":"4.3.18.7"
+  },
+  {
+    "id":388,
+    "dateGA":"2016-10-13T03:00:00.000Z",
+    "description":"Customer 388",
+    "domain":"www.customer388.com",
+    "host":"customer388.customers.com",
+    "name":"customer388",
+    "type":"Lite",
+    "version":"5.2.1.7"
+  },
+  {
+    "id":389,
+    "dateGA":"2016-04-15T03:00:00.000Z",
+    "description":"Customer 389",
+    "domain":"www.customer389.com",
+    "host":"customer389.customers.com",
+    "name":"customer389",
+    "type":"Enterprise",
+    "version":"5.3.19.3"
+  },
+  {
+    "id":390,
+    "dateGA":"2016-02-13T03:00:00.000Z",
+    "description":"Customer 390",
+    "domain":"www.customer390.com",
+    "host":"customer390.customers.com",
+    "name":"customer390",
+    "type":"Lite",
+    "version":"4.1.1.7"
+  },
+  {
+    "id":391,
+    "dateGA":"2016-06-14T03:00:00.000Z",
+    "description":"Customer 391",
+    "domain":"www.customer391.com",
+    "host":"customer391.customers.com",
+    "name":"customer391",
+    "type":"Enterprise",
+    "version":"5.1.1.3"
+  },
+  {
+    "id":392,
+    "dateGA":"2016-03-28T03:00:00.000Z",
+    "description":"Customer 392",
+    "domain":"www.customer392.com",
+    "host":"customer392.customers.com",
+    "name":"customer392",
+    "type":"Lite",
+    "version":"4.6.11.6"
+  },
+  {
+    "id":393,
+    "dateGA":"2016-01-11T03:00:00.000Z",
+    "description":"Customer 393",
+    "domain":"www.customer393.com",
+    "host":"customer393.customers.com",
+    "name":"customer393",
+    "type":"Enterprise",
+    "version":"5.1.2.5"
+  },
+  {
+    "id":394,
+    "dateGA":"2016-04-15T03:00:00.000Z",
+    "description":"Customer 394",
+    "domain":"www.customer394.com",
+    "host":"customer394.customers.com",
+    "name":"customer394",
+    "type":"Lite",
+    "version":"4.2.12.1"
+  },
+  {
+    "id":395,
+    "dateGA":"2016-11-22T03:00:00.000Z",
+    "description":"Customer 395",
+    "domain":"www.customer395.com",
+    "host":"customer395.customers.com",
+    "name":"customer395",
+    "type":"Lite",
+    "version":"5.4.19.6"
+  },
+  {
+    "id":396,
+    "dateGA":"2016-11-28T03:00:00.000Z",
+    "description":"Customer 396",
+    "domain":"www.customer396.com",
+    "host":"customer396.customers.com",
+    "name":"customer396",
+    "type":"Lite",
+    "version":"5.6.1.7"
+  },
+  {
+    "id":397,
+    "dateGA":"2016-08-17T03:00:00.000Z",
+    "description":"Customer 397",
+    "domain":"www.customer397.com",
+    "host":"customer397.customers.com",
+    "name":"customer397",
+    "type":"Enterprise",
+    "version":"4.4.2.3"
+  },
+  {
+    "id":398,
+    "dateGA":"2016-07-18T03:00:00.000Z",
+    "description":"Customer 398",
+    "domain":"www.customer398.com",
+    "host":"customer398.customers.com",
+    "name":"customer398",
+    "type":"Lite",
+    "version":"5.5.1.5"
+  },
+  {
+    "id":399,
+    "dateGA":"2016-10-17T03:00:00.000Z",
+    "description":"Customer 399",
+    "domain":"www.customer399.com",
+    "host":"customer399.customers.com",
+    "name":"customer399",
+    "type":"Enterprise",
+    "version":"5.9.1.3"
+  },
+  {
+    "id":400,
+    "dateGA":"2016-05-19T03:00:00.000Z",
+    "description":"Customer 400",
+    "domain":"www.customer400.com",
+    "host":"customer400.customers.com",
+    "name":"customer400",
+    "type":"Lite",
+    "version":"5.7.13.6"
+  },
+  {
+    "id":401,
+    "dateGA":"2016-09-14T03:00:00.000Z",
+    "description":"Customer 401",
+    "domain":"www.customer401.com",
+    "host":"customer401.customers.com",
+    "name":"customer401",
+    "type":"Enterprise",
+    "version":"5.7.16.3"
+  },
+  {
+    "id":402,
+    "dateGA":"2016-02-07T03:00:00.000Z",
+    "description":"Customer 402",
+    "domain":"www.customer402.com",
+    "host":"customer402.customers.com",
+    "name":"customer402",
+    "type":"Lite",
+    "version":"5.3.14.2"
+  },
+  {
+    "id":403,
+    "dateGA":"2016-12-19T03:00:00.000Z",
+    "description":"Customer 403",
+    "domain":"www.customer403.com",
+    "host":"customer403.customers.com",
+    "name":"customer403",
+    "type":"Enterprise",
+    "version":"5.9.14.5"
+  },
+  {
+    "id":404,
+    "dateGA":"2016-01-18T03:00:00.000Z",
+    "description":"Customer 404",
+    "domain":"www.customer404.com",
+    "host":"customer404.customers.com",
+    "name":"customer404",
+    "type":"Lite",
+    "version":"5.1.19.4"
+  },
+  {
+    "id":405,
+    "dateGA":"2016-05-04T03:00:00.000Z",
+    "description":"Customer 405",
+    "domain":"www.customer405.com",
+    "host":"customer405.customers.com",
+    "name":"customer405",
+    "type":"Lite",
+    "version":"5.8.9.5"
+  },
+  {
+    "id":406,
+    "dateGA":"2016-03-23T03:00:00.000Z",
+    "description":"Customer 406",
+    "domain":"www.customer406.com",
+    "host":"customer406.customers.com",
+    "name":"customer406",
+    "type":"Lite",
+    "version":"5.2.9.4"
+  },
+  {
+    "id":407,
+    "dateGA":"2016-09-05T03:00:00.000Z",
+    "description":"Customer 407",
+    "domain":"www.customer407.com",
+    "host":"customer407.customers.com",
+    "name":"customer407",
+    "type":"Enterprise",
+    "version":"5.8.4.7"
+  },
+  {
+    "id":408,
+    "dateGA":"2016-05-05T03:00:00.000Z",
+    "description":"Customer 408",
+    "domain":"www.customer408.com",
+    "host":"customer408.customers.com",
+    "name":"customer408",
+    "type":"Lite",
+    "version":"4.4.11.3"
+  },
+  {
+    "id":409,
+    "dateGA":"2016-08-25T03:00:00.000Z",
+    "description":"Customer 409",
+    "domain":"www.customer409.com",
+    "host":"customer409.customers.com",
+    "name":"customer409",
+    "type":"Enterprise",
+    "version":"5.3.9.2"
+  },
+  {
+    "id":410,
+    "dateGA":"2016-07-06T03:00:00.000Z",
+    "description":"Customer 410",
+    "domain":"www.customer410.com",
+    "host":"customer410.customers.com",
+    "name":"customer410",
+    "type":"Lite",
+    "version":"4.1.2.6"
+  },
+  {
+    "id":411,
+    "dateGA":"2016-10-25T03:00:00.000Z",
+    "description":"Customer 411",
+    "domain":"www.customer411.com",
+    "host":"customer411.customers.com",
+    "name":"customer411",
+    "type":"Enterprise",
+    "version":"5.2.12.6"
+  },
+  {
+    "id":412,
+    "dateGA":"2016-12-03T03:00:00.000Z",
+    "description":"Customer 412",
+    "domain":"www.customer412.com",
+    "host":"customer412.customers.com",
+    "name":"customer412",
+    "type":"Lite",
+    "version":"5.6.11.4"
+  },
+  {
+    "id":413,
+    "dateGA":"2016-12-23T03:00:00.000Z",
+    "description":"Customer 413",
+    "domain":"www.customer413.com",
+    "host":"customer413.customers.com",
+    "name":"customer413",
+    "type":"Enterprise",
+    "version":"5.5.19.6"
+  },
+  {
+    "id":414,
+    "dateGA":"2016-12-26T03:00:00.000Z",
+    "description":"Customer 414",
+    "domain":"www.customer414.com",
+    "host":"customer414.customers.com",
+    "name":"customer414",
+    "type":"Lite",
+    "version":"5.4.1.1"
+  },
+  {
+    "id":415,
+    "dateGA":"2016-12-25T03:00:00.000Z",
+    "description":"Customer 415",
+    "domain":"www.customer415.com",
+    "host":"customer415.customers.com",
+    "name":"customer415",
+    "type":"Lite",
+    "version":"5.4.6.5"
+  },
+  {
+    "id":416,
+    "dateGA":"2016-01-03T03:00:00.000Z",
+    "description":"Customer 416",
+    "domain":"www.customer416.com",
+    "host":"customer416.customers.com",
+    "name":"customer416",
+    "type":"Lite",
+    "version":"4.6.15.1"
+  },
+  {
+    "id":417,
+    "dateGA":"2016-05-26T03:00:00.000Z",
+    "description":"Customer 417",
+    "domain":"www.customer417.com",
+    "host":"customer417.customers.com",
+    "name":"customer417",
+    "type":"Enterprise",
+    "version":"5.9.15.4"
+  },
+  {
+    "id":418,
+    "dateGA":"2016-04-13T03:00:00.000Z",
+    "description":"Customer 418",
+    "domain":"www.customer418.com",
+    "host":"customer418.customers.com",
+    "name":"customer418",
+    "type":"Lite",
+    "version":"4.6.5.2"
+  },
+  {
+    "id":419,
+    "dateGA":"2016-10-14T03:00:00.000Z",
+    "description":"Customer 419",
+    "domain":"www.customer419.com",
+    "host":"customer419.customers.com",
+    "name":"customer419",
+    "type":"Enterprise",
+    "version":"4.4.10.3"
+  },
+  {
+    "id":420,
+    "dateGA":"2016-12-12T03:00:00.000Z",
+    "description":"Customer 420",
+    "domain":"www.customer420.com",
+    "host":"customer420.customers.com",
+    "name":"customer420",
+    "type":"Lite",
+    "version":"4.4.16.3"
+  },
+  {
+    "id":421,
+    "dateGA":"2016-01-19T03:00:00.000Z",
+    "description":"Customer 421",
+    "domain":"www.customer421.com",
+    "host":"customer421.customers.com",
+    "name":"customer421",
+    "type":"Enterprise",
+    "version":"5.8.3.3"
+  },
+  {
+    "id":422,
+    "dateGA":"2016-11-15T03:00:00.000Z",
+    "description":"Customer 422",
+    "domain":"www.customer422.com",
+    "host":"customer422.customers.com",
+    "name":"customer422",
+    "type":"Lite",
+    "version":"5.5.14.5"
+  },
+  {
+    "id":423,
+    "dateGA":"2016-10-07T03:00:00.000Z",
+    "description":"Customer 423",
+    "domain":"www.customer423.com",
+    "host":"customer423.customers.com",
+    "name":"customer423",
+    "type":"Enterprise",
+    "version":"5.6.15.2"
+  },
+  {
+    "id":424,
+    "dateGA":"2016-11-20T03:00:00.000Z",
+    "description":"Customer 424",
+    "domain":"www.customer424.com",
+    "host":"customer424.customers.com",
+    "name":"customer424",
+    "type":"Lite",
+    "version":"5.9.2.3"
+  },
+  {
+    "id":425,
+    "dateGA":"2016-03-26T03:00:00.000Z",
+    "description":"Customer 425",
+    "domain":"www.customer425.com",
+    "host":"customer425.customers.com",
+    "name":"customer425",
+    "type":"Lite",
+    "version":"4.9.6.4"
+  },
+  {
+    "id":426,
+    "dateGA":"2016-03-04T03:00:00.000Z",
+    "description":"Customer 426",
+    "domain":"www.customer426.com",
+    "host":"customer426.customers.com",
+    "name":"customer426",
+    "type":"Lite",
+    "version":"4.9.18.4"
+  },
+  {
+    "id":427,
+    "dateGA":"2016-09-22T03:00:00.000Z",
+    "description":"Customer 427",
+    "domain":"www.customer427.com",
+    "host":"customer427.customers.com",
+    "name":"customer427",
+    "type":"Enterprise",
+    "version":"5.7.9.4"
+  },
+  {
+    "id":428,
+    "dateGA":"2016-06-17T03:00:00.000Z",
+    "description":"Customer 428",
+    "domain":"www.customer428.com",
+    "host":"customer428.customers.com",
+    "name":"customer428",
+    "type":"Lite",
+    "version":"5.5.17.3"
+  },
+  {
+    "id":429,
+    "dateGA":"2016-12-06T03:00:00.000Z",
+    "description":"Customer 429",
+    "domain":"www.customer429.com",
+    "host":"customer429.customers.com",
+    "name":"customer429",
+    "type":"Enterprise",
+    "version":"5.3.8.3"
+  },
+  {
+    "id":430,
+    "dateGA":"2016-09-12T03:00:00.000Z",
+    "description":"Customer 430",
+    "domain":"www.customer430.com",
+    "host":"customer430.customers.com",
+    "name":"customer430",
+    "type":"Lite",
+    "version":"5.1.17.6"
+  },
+  {
+    "id":431,
+    "dateGA":"2016-09-08T03:00:00.000Z",
+    "description":"Customer 431",
+    "domain":"www.customer431.com",
+    "host":"customer431.customers.com",
+    "name":"customer431",
+    "type":"Enterprise",
+    "version":"5.5.5.1"
+  },
+  {
+    "id":432,
+    "dateGA":"2016-07-22T03:00:00.000Z",
+    "description":"Customer 432",
+    "domain":"www.customer432.com",
+    "host":"customer432.customers.com",
+    "name":"customer432",
+    "type":"Lite",
+    "version":"4.4.18.6"
+  },
+  {
+    "id":433,
+    "dateGA":"2016-09-22T03:00:00.000Z",
+    "description":"Customer 433",
+    "domain":"www.customer433.com",
+    "host":"customer433.customers.com",
+    "name":"customer433",
+    "type":"Enterprise",
+    "version":"5.5.18.5"
+  },
+  {
+    "id":434,
+    "dateGA":"2016-10-26T03:00:00.000Z",
+    "description":"Customer 434",
+    "domain":"www.customer434.com",
+    "host":"customer434.customers.com",
+    "name":"customer434",
+    "type":"Lite",
+    "version":"5.1.7.5"
+  },
+  {
+    "id":435,
+    "dateGA":"2016-11-14T03:00:00.000Z",
+    "description":"Customer 435",
+    "domain":"www.customer435.com",
+    "host":"customer435.customers.com",
+    "name":"customer435",
+    "type":"Lite",
+    "version":"5.7.13.1"
+  },
+  {
+    "id":436,
+    "dateGA":"2016-05-17T03:00:00.000Z",
+    "description":"Customer 436",
+    "domain":"www.customer436.com",
+    "host":"customer436.customers.com",
+    "name":"customer436",
+    "type":"Lite",
+    "version":"5.9.11.7"
+  },
+  {
+    "id":437,
+    "dateGA":"2016-01-22T03:00:00.000Z",
+    "description":"Customer 437",
+    "domain":"www.customer437.com",
+    "host":"customer437.customers.com",
+    "name":"customer437",
+    "type":"Enterprise",
+    "version":"5.2.5.7"
+  },
+  {
+    "id":438,
+    "dateGA":"2016-02-19T03:00:00.000Z",
+    "description":"Customer 438",
+    "domain":"www.customer438.com",
+    "host":"customer438.customers.com",
+    "name":"customer438",
+    "type":"Lite",
+    "version":"5.5.12.1"
+  },
+  {
+    "id":439,
+    "dateGA":"2016-04-14T03:00:00.000Z",
+    "description":"Customer 439",
+    "domain":"www.customer439.com",
+    "host":"customer439.customers.com",
+    "name":"customer439",
+    "type":"Enterprise",
+    "version":"4.1.15.3"
+  },
+  {
+    "id":440,
+    "dateGA":"2016-03-10T03:00:00.000Z",
+    "description":"Customer 440",
+    "domain":"www.customer440.com",
+    "host":"customer440.customers.com",
+    "name":"customer440",
+    "type":"Lite",
+    "version":"5.7.18.7"
+  },
+  {
+    "id":441,
+    "dateGA":"2016-08-25T03:00:00.000Z",
+    "description":"Customer 441",
+    "domain":"www.customer441.com",
+    "host":"customer441.customers.com",
+    "name":"customer441",
+    "type":"Enterprise",
+    "version":"5.2.14.5"
+  },
+  {
+    "id":442,
+    "dateGA":"2016-06-05T03:00:00.000Z",
+    "description":"Customer 442",
+    "domain":"www.customer442.com",
+    "host":"customer442.customers.com",
+    "name":"customer442",
+    "type":"Lite",
+    "version":"5.1.2.5"
+  },
+  {
+    "id":443,
+    "dateGA":"2016-06-24T03:00:00.000Z",
+    "description":"Customer 443",
+    "domain":"www.customer443.com",
+    "host":"customer443.customers.com",
+    "name":"customer443",
+    "type":"Enterprise",
+    "version":"4.6.9.2"
+  },
+  {
+    "id":444,
+    "dateGA":"2016-05-21T03:00:00.000Z",
+    "description":"Customer 444",
+    "domain":"www.customer444.com",
+    "host":"customer444.customers.com",
+    "name":"customer444",
+    "type":"Lite",
+    "version":"5.4.16.4"
+  },
+  {
+    "id":445,
+    "dateGA":"2016-04-19T03:00:00.000Z",
+    "description":"Customer 445",
+    "domain":"www.customer445.com",
+    "host":"customer445.customers.com",
+    "name":"customer445",
+    "type":"Lite",
+    "version":"4.7.15.2"
+  },
+  {
+    "id":446,
+    "dateGA":"2016-04-28T03:00:00.000Z",
+    "description":"Customer 446",
+    "domain":"www.customer446.com",
+    "host":"customer446.customers.com",
+    "name":"customer446",
+    "type":"Lite",
+    "version":"5.4.14.4"
+  },
+  {
+    "id":447,
+    "dateGA":"2016-04-06T03:00:00.000Z",
+    "description":"Customer 447",
+    "domain":"www.customer447.com",
+    "host":"customer447.customers.com",
+    "name":"customer447",
+    "type":"Enterprise",
+    "version":"5.7.17.4"
+  },
+  {
+    "id":448,
+    "dateGA":"2016-02-24T03:00:00.000Z",
+    "description":"Customer 448",
+    "domain":"www.customer448.com",
+    "host":"customer448.customers.com",
+    "name":"customer448",
+    "type":"Lite",
+    "version":"4.1.13.5"
+  },
+  {
+    "id":449,
+    "dateGA":"2016-06-01T03:00:00.000Z",
+    "description":"Customer 449",
+    "domain":"www.customer449.com",
+    "host":"customer449.customers.com",
+    "name":"customer449",
+    "type":"Enterprise",
+    "version":"5.9.5.4"
+  },
+  {
+    "id":450,
+    "dateGA":"2016-04-18T03:00:00.000Z",
+    "description":"Customer 450",
+    "domain":"www.customer450.com",
+    "host":"customer450.customers.com",
+    "name":"customer450",
+    "type":"Lite",
+    "version":"5.5.6.1"
+  },
+  {
+    "id":451,
+    "dateGA":"2016-08-04T03:00:00.000Z",
+    "description":"Customer 451",
+    "domain":"www.customer451.com",
+    "host":"customer451.customers.com",
+    "name":"customer451",
+    "type":"Enterprise",
+    "version":"5.7.16.6"
+  },
+  {
+    "id":452,
+    "dateGA":"2016-03-20T03:00:00.000Z",
+    "description":"Customer 452",
+    "domain":"www.customer452.com",
+    "host":"customer452.customers.com",
+    "name":"customer452",
+    "type":"Lite",
+    "version":"5.6.16.5"
+  },
+  {
+    "id":453,
+    "dateGA":"2016-09-12T03:00:00.000Z",
+    "description":"Customer 453",
+    "domain":"www.customer453.com",
+    "host":"customer453.customers.com",
+    "name":"customer453",
+    "type":"Enterprise",
+    "version":"5.1.1.1"
+  },
+  {
+    "id":454,
+    "dateGA":"2016-08-02T03:00:00.000Z",
+    "description":"Customer 454",
+    "domain":"www.customer454.com",
+    "host":"customer454.customers.com",
+    "name":"customer454",
+    "type":"Lite",
+    "version":"5.6.8.5"
+  },
+  {
+    "id":455,
+    "dateGA":"2016-03-22T03:00:00.000Z",
+    "description":"Customer 455",
+    "domain":"www.customer455.com",
+    "host":"customer455.customers.com",
+    "name":"customer455",
+    "type":"Lite",
+    "version":"5.7.10.6"
+  },
+  {
+    "id":456,
+    "dateGA":"2016-01-26T03:00:00.000Z",
+    "description":"Customer 456",
+    "domain":"www.customer456.com",
+    "host":"customer456.customers.com",
+    "name":"customer456",
+    "type":"Lite",
+    "version":"5.7.10.2"
+  },
+  {
+    "id":457,
+    "dateGA":"2016-04-17T03:00:00.000Z",
+    "description":"Customer 457",
+    "domain":"www.customer457.com",
+    "host":"customer457.customers.com",
+    "name":"customer457",
+    "type":"Enterprise",
+    "version":"4.8.4.3"
+  },
+  {
+    "id":458,
+    "dateGA":"2016-07-01T03:00:00.000Z",
+    "description":"Customer 458",
+    "domain":"www.customer458.com",
+    "host":"customer458.customers.com",
+    "name":"customer458",
+    "type":"Lite",
+    "version":"5.7.10.7"
+  },
+  {
+    "id":459,
+    "dateGA":"2016-07-13T03:00:00.000Z",
+    "description":"Customer 459",
+    "domain":"www.customer459.com",
+    "host":"customer459.customers.com",
+    "name":"customer459",
+    "type":"Enterprise",
+    "version":"4.7.15.5"
+  },
+  {
+    "id":460,
+    "dateGA":"2016-12-10T03:00:00.000Z",
+    "description":"Customer 460",
+    "domain":"www.customer460.com",
+    "host":"customer460.customers.com",
+    "name":"customer460",
+    "type":"Lite",
+    "version":"4.8.13.5"
+  },
+  {
+    "id":461,
+    "dateGA":"2016-11-16T03:00:00.000Z",
+    "description":"Customer 461",
+    "domain":"www.customer461.com",
+    "host":"customer461.customers.com",
+    "name":"customer461",
+    "type":"Enterprise",
+    "version":"5.7.16.1"
+  },
+  {
+    "id":462,
+    "dateGA":"2016-03-03T03:00:00.000Z",
+    "description":"Customer 462",
+    "domain":"www.customer462.com",
+    "host":"customer462.customers.com",
+    "name":"customer462",
+    "type":"Lite",
+    "version":"4.1.6.1"
+  },
+  {
+    "id":463,
+    "dateGA":"2016-05-05T03:00:00.000Z",
+    "description":"Customer 463",
+    "domain":"www.customer463.com",
+    "host":"customer463.customers.com",
+    "name":"customer463",
+    "type":"Enterprise",
+    "version":"5.8.8.5"
+  },
+  {
+    "id":464,
+    "dateGA":"2016-05-26T03:00:00.000Z",
+    "description":"Customer 464",
+    "domain":"www.customer464.com",
+    "host":"customer464.customers.com",
+    "name":"customer464",
+    "type":"Lite",
+    "version":"4.8.11.1"
+  },
+  {
+    "id":465,
+    "dateGA":"2016-02-06T03:00:00.000Z",
+    "description":"Customer 465",
+    "domain":"www.customer465.com",
+    "host":"customer465.customers.com",
+    "name":"customer465",
+    "type":"Lite",
+    "version":"4.5.7.1"
+  },
+  {
+    "id":466,
+    "dateGA":"2016-07-23T03:00:00.000Z",
+    "description":"Customer 466",
+    "domain":"www.customer466.com",
+    "host":"customer466.customers.com",
+    "name":"customer466",
+    "type":"Lite",
+    "version":"5.7.4.6"
+  },
+  {
+    "id":467,
+    "dateGA":"2016-06-23T03:00:00.000Z",
+    "description":"Customer 467",
+    "domain":"www.customer467.com",
+    "host":"customer467.customers.com",
+    "name":"customer467",
+    "type":"Enterprise",
+    "version":"5.5.14.2"
+  },
+  {
+    "id":468,
+    "dateGA":"2016-08-03T03:00:00.000Z",
+    "description":"Customer 468",
+    "domain":"www.customer468.com",
+    "host":"customer468.customers.com",
+    "name":"customer468",
+    "type":"Lite",
+    "version":"5.1.9.7"
+  },
+  {
+    "id":469,
+    "dateGA":"2016-09-09T03:00:00.000Z",
+    "description":"Customer 469",
+    "domain":"www.customer469.com",
+    "host":"customer469.customers.com",
+    "name":"customer469",
+    "type":"Enterprise",
+    "version":"4.8.18.2"
+  },
+  {
+    "id":470,
+    "dateGA":"2016-05-25T03:00:00.000Z",
+    "description":"Customer 470",
+    "domain":"www.customer470.com",
+    "host":"customer470.customers.com",
+    "name":"customer470",
+    "type":"Lite",
+    "version":"5.2.13.4"
+  },
+  {
+    "id":471,
+    "dateGA":"2016-07-17T03:00:00.000Z",
+    "description":"Customer 471",
+    "domain":"www.customer471.com",
+    "host":"customer471.customers.com",
+    "name":"customer471",
+    "type":"Enterprise",
+    "version":"5.5.19.3"
+  },
+  {
+    "id":472,
+    "dateGA":"2016-10-02T03:00:00.000Z",
+    "description":"Customer 472",
+    "domain":"www.customer472.com",
+    "host":"customer472.customers.com",
+    "name":"customer472",
+    "type":"Lite",
+    "version":"5.3.15.4"
+  },
+  {
+    "id":473,
+    "dateGA":"2016-08-18T03:00:00.000Z",
+    "description":"Customer 473",
+    "domain":"www.customer473.com",
+    "host":"customer473.customers.com",
+    "name":"customer473",
+    "type":"Enterprise",
+    "version":"4.4.14.3"
+  },
+  {
+    "id":474,
+    "dateGA":"2016-02-15T03:00:00.000Z",
+    "description":"Customer 474",
+    "domain":"www.customer474.com",
+    "host":"customer474.customers.com",
+    "name":"customer474",
+    "type":"Lite",
+    "version":"5.5.15.4"
+  },
+  {
+    "id":475,
+    "dateGA":"2016-02-24T03:00:00.000Z",
+    "description":"Customer 475",
+    "domain":"www.customer475.com",
+    "host":"customer475.customers.com",
+    "name":"customer475",
+    "type":"Lite",
+    "version":"5.7.4.3"
+  },
+  {
+    "id":476,
+    "dateGA":"2016-11-06T03:00:00.000Z",
+    "description":"Customer 476",
+    "domain":"www.customer476.com",
+    "host":"customer476.customers.com",
+    "name":"customer476",
+    "type":"Lite",
+    "version":"5.2.1.7"
+  },
+  {
+    "id":477,
+    "dateGA":"2016-02-02T03:00:00.000Z",
+    "description":"Customer 477",
+    "domain":"www.customer477.com",
+    "host":"customer477.customers.com",
+    "name":"customer477",
+    "type":"Enterprise",
+    "version":"5.4.18.1"
+  },
+  {
+    "id":478,
+    "dateGA":"2016-01-19T03:00:00.000Z",
+    "description":"Customer 478",
+    "domain":"www.customer478.com",
+    "host":"customer478.customers.com",
+    "name":"customer478",
+    "type":"Lite",
+    "version":"4.4.17.2"
+  },
+  {
+    "id":479,
+    "dateGA":"2016-11-13T03:00:00.000Z",
+    "description":"Customer 479",
+    "domain":"www.customer479.com",
+    "host":"customer479.customers.com",
+    "name":"customer479",
+    "type":"Enterprise",
+    "version":"4.2.16.6"
+  },
+  {
+    "id":480,
+    "dateGA":"2016-09-02T03:00:00.000Z",
+    "description":"Customer 480",
+    "domain":"www.customer480.com",
+    "host":"customer480.customers.com",
+    "name":"customer480",
+    "type":"Lite",
+    "version":"5.4.15.1"
+  },
+  {
+    "id":481,
+    "dateGA":"2016-03-01T03:00:00.000Z",
+    "description":"Customer 481",
+    "domain":"www.customer481.com",
+    "host":"customer481.customers.com",
+    "name":"customer481",
+    "type":"Enterprise",
+    "version":"4.1.17.5"
+  },
+  {
+    "id":482,
+    "dateGA":"2016-02-04T03:00:00.000Z",
+    "description":"Customer 482",
+    "domain":"www.customer482.com",
+    "host":"customer482.customers.com",
+    "name":"customer482",
+    "type":"Lite",
+    "version":"5.3.4.3"
+  },
+  {
+    "id":483,
+    "dateGA":"2016-10-22T03:00:00.000Z",
+    "description":"Customer 483",
+    "domain":"www.customer483.com",
+    "host":"customer483.customers.com",
+    "name":"customer483",
+    "type":"Enterprise",
+    "version":"5.6.11.7"
+  },
+  {
+    "id":484,
+    "dateGA":"2016-06-12T03:00:00.000Z",
+    "description":"Customer 484",
+    "domain":"www.customer484.com",
+    "host":"customer484.customers.com",
+    "name":"customer484",
+    "type":"Lite",
+    "version":"5.8.6.2"
+  },
+  {
+    "id":485,
+    "dateGA":"2016-01-19T03:00:00.000Z",
+    "description":"Customer 485",
+    "domain":"www.customer485.com",
+    "host":"customer485.customers.com",
+    "name":"customer485",
+    "type":"Lite",
+    "version":"5.2.13.4"
+  },
+  {
+    "id":486,
+    "dateGA":"2016-04-03T03:00:00.000Z",
+    "description":"Customer 486",
+    "domain":"www.customer486.com",
+    "host":"customer486.customers.com",
+    "name":"customer486",
+    "type":"Lite",
+    "version":"5.1.4.5"
+  },
+  {
+    "id":487,
+    "dateGA":"2016-08-11T03:00:00.000Z",
+    "description":"Customer 487",
+    "domain":"www.customer487.com",
+    "host":"customer487.customers.com",
+    "name":"customer487",
+    "type":"Enterprise",
+    "version":"5.7.1.3"
+  },
+  {
+    "id":488,
+    "dateGA":"2016-05-13T03:00:00.000Z",
+    "description":"Customer 488",
+    "domain":"www.customer488.com",
+    "host":"customer488.customers.com",
+    "name":"customer488",
+    "type":"Lite",
+    "version":"4.4.15.7"
+  },
+  {
+    "id":489,
+    "dateGA":"2016-08-25T03:00:00.000Z",
+    "description":"Customer 489",
+    "domain":"www.customer489.com",
+    "host":"customer489.customers.com",
+    "name":"customer489",
+    "type":"Enterprise",
+    "version":"5.8.14.7"
+  },
+  {
+    "id":490,
+    "dateGA":"2016-09-17T03:00:00.000Z",
+    "description":"Customer 490",
+    "domain":"www.customer490.com",
+    "host":"customer490.customers.com",
+    "name":"customer490",
+    "type":"Lite",
+    "version":"4.3.14.6"
+  },
+  {
+    "id":491,
+    "dateGA":"2016-05-08T03:00:00.000Z",
+    "description":"Customer 491",
+    "domain":"www.customer491.com",
+    "host":"customer491.customers.com",
+    "name":"customer491",
+    "type":"Enterprise",
+    "version":"5.2.13.3"
+  },
+  {
+    "id":492,
+    "dateGA":"2016-08-17T03:00:00.000Z",
+    "description":"Customer 492",
+    "domain":"www.customer492.com",
+    "host":"customer492.customers.com",
+    "name":"customer492",
+    "type":"Lite",
+    "version":"4.6.18.7"
+  },
+  {
+    "id":493,
+    "dateGA":"2016-08-04T03:00:00.000Z",
+    "description":"Customer 493",
+    "domain":"www.customer493.com",
+    "host":"customer493.customers.com",
+    "name":"customer493",
+    "type":"Enterprise",
+    "version":"5.5.19.5"
+  },
+  {
+    "id":494,
+    "dateGA":"2016-11-15T03:00:00.000Z",
+    "description":"Customer 494",
+    "domain":"www.customer494.com",
+    "host":"customer494.customers.com",
+    "name":"customer494",
+    "type":"Lite",
+    "version":"5.4.8.1"
+  },
+  {
+    "id":495,
+    "dateGA":"2016-12-24T03:00:00.000Z",
+    "description":"Customer 495",
+    "domain":"www.customer495.com",
+    "host":"customer495.customers.com",
+    "name":"customer495",
+    "type":"Lite",
+    "version":"5.9.16.5"
+  },
+  {
+    "id":496,
+    "dateGA":"2016-05-12T03:00:00.000Z",
+    "description":"Customer 496",
+    "domain":"www.customer496.com",
+    "host":"customer496.customers.com",
+    "name":"customer496",
+    "type":"Lite",
+    "version":"5.4.19.1"
+  },
+  {
+    "id":497,
+    "dateGA":"2016-04-01T03:00:00.000Z",
+    "description":"Customer 497",
+    "domain":"www.customer497.com",
+    "host":"customer497.customers.com",
+    "name":"customer497",
+    "type":"Enterprise",
+    "version":"5.1.1.6"
+  },
+  {
+    "id":498,
+    "dateGA":"2016-11-22T03:00:00.000Z",
+    "description":"Customer 498",
+    "domain":"www.customer498.com",
+    "host":"customer498.customers.com",
+    "name":"customer498",
+    "type":"Lite",
+    "version":"5.6.8.4"
+  },
+  {
+    "id":499,
+    "dateGA":"2016-06-11T03:00:00.000Z",
+    "description":"Customer 499",
+    "domain":"www.customer499.com",
+    "host":"customer499.customers.com",
+    "name":"customer499",
+    "type":"Enterprise",
+    "version":"4.1.19.6"
+  },
+  {
+    "id":500,
+    "dateGA":"2016-09-07T03:00:00.000Z",
+    "description":"Customer 500",
+    "domain":"www.customer500.com",
+    "host":"customer500.customers.com",
+    "name":"customer500",
+    "type":"Lite",
+    "version":"5.7.6.6"
+  },
+  {
+    "id":501,
+    "dateGA":"2016-04-16T03:00:00.000Z",
+    "description":"Customer 501",
+    "domain":"www.customer501.com",
+    "host":"customer501.customers.com",
+    "name":"customer501",
+    "type":"Enterprise",
+    "version":"5.5.16.3"
+  },
+  {
+    "id":502,
+    "dateGA":"2016-02-24T03:00:00.000Z",
+    "description":"Customer 502",
+    "domain":"www.customer502.com",
+    "host":"customer502.customers.com",
+    "name":"customer502",
+    "type":"Lite",
+    "version":"4.2.10.4"
+  },
+  {
+    "id":503,
+    "dateGA":"2016-06-15T03:00:00.000Z",
+    "description":"Customer 503",
+    "domain":"www.customer503.com",
+    "host":"customer503.customers.com",
+    "name":"customer503",
+    "type":"Enterprise",
+    "version":"5.8.9.1"
+  },
+  {
+    "id":504,
+    "dateGA":"2016-09-13T03:00:00.000Z",
+    "description":"Customer 504",
+    "domain":"www.customer504.com",
+    "host":"customer504.customers.com",
+    "name":"customer504",
+    "type":"Lite",
+    "version":"5.8.1.1"
+  },
+  {
+    "id":505,
+    "dateGA":"2016-08-14T03:00:00.000Z",
+    "description":"Customer 505",
+    "domain":"www.customer505.com",
+    "host":"customer505.customers.com",
+    "name":"customer505",
+    "type":"Lite",
+    "version":"5.4.2.2"
+  },
+  {
+    "id":506,
+    "dateGA":"2016-07-18T03:00:00.000Z",
+    "description":"Customer 506",
+    "domain":"www.customer506.com",
+    "host":"customer506.customers.com",
+    "name":"customer506",
+    "type":"Lite",
+    "version":"5.8.16.2"
+  },
+  {
+    "id":507,
+    "dateGA":"2016-01-08T03:00:00.000Z",
+    "description":"Customer 507",
+    "domain":"www.customer507.com",
+    "host":"customer507.customers.com",
+    "name":"customer507",
+    "type":"Enterprise",
+    "version":"4.3.16.6"
+  },
+  {
+    "id":508,
+    "dateGA":"2016-09-24T03:00:00.000Z",
+    "description":"Customer 508",
+    "domain":"www.customer508.com",
+    "host":"customer508.customers.com",
+    "name":"customer508",
+    "type":"Lite",
+    "version":"5.3.7.3"
+  },
+  {
+    "id":509,
+    "dateGA":"2016-11-22T03:00:00.000Z",
+    "description":"Customer 509",
+    "domain":"www.customer509.com",
+    "host":"customer509.customers.com",
+    "name":"customer509",
+    "type":"Enterprise",
+    "version":"5.2.17.4"
+  },
+  {
+    "id":510,
+    "dateGA":"2016-02-11T03:00:00.000Z",
+    "description":"Customer 510",
+    "domain":"www.customer510.com",
+    "host":"customer510.customers.com",
+    "name":"customer510",
+    "type":"Lite",
+    "version":"5.8.19.6"
+  },
+  {
+    "id":511,
+    "dateGA":"2016-10-05T03:00:00.000Z",
+    "description":"Customer 511",
+    "domain":"www.customer511.com",
+    "host":"customer511.customers.com",
+    "name":"customer511",
+    "type":"Enterprise",
+    "version":"4.1.5.4"
+  },
+  {
+    "id":512,
+    "dateGA":"2016-06-20T03:00:00.000Z",
+    "description":"Customer 512",
+    "domain":"www.customer512.com",
+    "host":"customer512.customers.com",
+    "name":"customer512",
+    "type":"Lite",
+    "version":"5.3.6.3"
+  },
+  {
+    "id":513,
+    "dateGA":"2016-03-23T03:00:00.000Z",
+    "description":"Customer 513",
+    "domain":"www.customer513.com",
+    "host":"customer513.customers.com",
+    "name":"customer513",
+    "type":"Enterprise",
+    "version":"5.9.7.5"
+  },
+  {
+    "id":514,
+    "dateGA":"2016-08-13T03:00:00.000Z",
+    "description":"Customer 514",
+    "domain":"www.customer514.com",
+    "host":"customer514.customers.com",
+    "name":"customer514",
+    "type":"Lite",
+    "version":"4.6.2.6"
+  },
+  {
+    "id":515,
+    "dateGA":"2016-01-04T03:00:00.000Z",
+    "description":"Customer 515",
+    "domain":"www.customer515.com",
+    "host":"customer515.customers.com",
+    "name":"customer515",
+    "type":"Lite",
+    "version":"4.2.8.1"
+  },
+  {
+    "id":516,
+    "dateGA":"2016-09-15T03:00:00.000Z",
+    "description":"Customer 516",
+    "domain":"www.customer516.com",
+    "host":"customer516.customers.com",
+    "name":"customer516",
+    "type":"Lite",
+    "version":"5.3.18.5"
+  },
+  {
+    "id":517,
+    "dateGA":"2016-06-02T03:00:00.000Z",
+    "description":"Customer 517",
+    "domain":"www.customer517.com",
+    "host":"customer517.customers.com",
+    "name":"customer517",
+    "type":"Enterprise",
+    "version":"5.7.6.3"
+  },
+  {
+    "id":518,
+    "dateGA":"2016-05-08T03:00:00.000Z",
+    "description":"Customer 518",
+    "domain":"www.customer518.com",
+    "host":"customer518.customers.com",
+    "name":"customer518",
+    "type":"Lite",
+    "version":"5.2.3.5"
+  },
+  {
+    "id":519,
+    "dateGA":"2016-11-14T03:00:00.000Z",
+    "description":"Customer 519",
+    "domain":"www.customer519.com",
+    "host":"customer519.customers.com",
+    "name":"customer519",
+    "type":"Enterprise",
+    "version":"5.2.4.7"
+  },
+  {
+    "id":520,
+    "dateGA":"2016-07-12T03:00:00.000Z",
+    "description":"Customer 520",
+    "domain":"www.customer520.com",
+    "host":"customer520.customers.com",
+    "name":"customer520",
+    "type":"Lite",
+    "version":"4.5.1.2"
+  },
+  {
+    "id":521,
+    "dateGA":"2016-06-14T03:00:00.000Z",
+    "description":"Customer 521",
+    "domain":"www.customer521.com",
+    "host":"customer521.customers.com",
+    "name":"customer521",
+    "type":"Enterprise",
+    "version":"5.6.14.7"
+  }
+]
